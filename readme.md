@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/images/brand.png" height="128">
+  <img src="public/images/tpa-logo.png" height="128">
   <h2 align="center"><a href="https://roadmap.thaiprogrammer.org">roadmap.thaiprogrammer.org</a></h2>
   <p align="center">Community driven roadmaps, articles and resources for developers in Thailand<p>
   <p align="center">This Repository inspired by Roadmap.sh with Thai content<p>
@@ -116,7 +116,7 @@ git clone --depth=1 https://github.com/ThaiProgrammer/tpa-roadmap.git
 
 > Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
 
-- Add content to roadmaps 
+- Add content to roadmaps
 - Add new roadmaps
 - Suggest changes to existing roadmaps
 - Discuss ideas in issues
