@@ -1,3 +1,5 @@
-# Installing Rust and Cargo
+# ติดตั้ง Rust และ Cargo
 
-To install Rust, navigate to the official website at [https://www.rust-lang.org](https://www.rust-lang.org) and download the appropriate installation file for your operating system. For UNIX systems like Linux and MacOS, installation is as easy as running a single command in the terminal. For Windows, you'll be provided with a '.exe' installer which you need to execute. Further instructions can be found on the download page of the website. Keep in mind that you'll also need a linker of your operating system such as 'gcc'. You can update your Rust version at any time by running `rustup update` in the terminal.
+เพื่อติดตั้ง Rust ให้ไปที่เว็บไซต์อย่างเป็นทางการที่ https://www.rust-lang.org และดาวน์โหลดไฟล์ติดตั้งที่เหมาะสำหรับระบบปฏิบัติการของคุณ สำหรับระบบ UNIX เช่น Linux และ MacOS การติดตั้งง่ายเพียงแค่รันคำสั่งเดียวใน terminal สำหรับ Windows คุณจะได้รับตัวติดตั้ง '.exe' ซึ่งคุณต้องเรียกใช้เอง คำแนะนำเพิ่มเติมสามารถหาได้ในหน้าดาวน์โหลดของเว็บไซต์ โดยจำเป็นต้องมี linker ของระบบปฏิบัติการ เช่น 'gcc' คุณสามารถอัปเดตรุ่น Rust ของคุณได้ตลอดเวลาโดยการรัน rustup update ใน terminal
+
+

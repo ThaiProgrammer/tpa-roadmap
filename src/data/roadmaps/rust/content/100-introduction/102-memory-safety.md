@@ -1,3 +1,9 @@
 # Memory Safety and Zero-Cost Abstractions
 
-Rust, a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. It is graced with the feature of "memory safety without garbage collection", an attribute that makes Rust one of its kind. Memory safety is ensuring that software, while accessing the system's memory, is not causing any leaks, or dangling pointers. In Rust, memory safety is accomplished through a system of ownership with a set of rules that the compiler checks at compile time. This system eliminates the need of garbage collection or manual memory management, hence ensuring swift execution of software along with a safer memory environment. This memory management feature in Rust even provides concurrent programming guaranteeing thread safety with options for shared and mutable state access that makes it harder to cause thread unsafety.
+Rust เป็นภาษาโปรแกรมสำหรับระบบที่ทำงานอย่างรวดเร็วอย่างต่อเนื่อง ป้องกัน segfaults และให้ความปลอดภัยสำหรับ cause thread มันมีคุณสมบัติของ "memory safety without garbage collection" ซึ่งเป็นลักษณะที่ทำให้ Rust เป็นเอกลักษณ์เอง ความปลอดภัยของหน่วยความจำคือการให้แน่ใจว่าซอฟต์แวร์ที่เข้าถึงหน่วยความจำของระบบจะไม่ทำให้เกิดการรั่วหรือตัวชี้ที่เฉยๆ ใน Rust ความปลอดภัยของหน่วยความจำถูกบรรลุผ่านระบบของการเป็นเจ้าของพร้อมกับชุดกฎที่คอมไพล์เช็คไว้ในระหว่างการคอมไพล์ ระบบนี้ปราศจากการจัดการขยะหรือการจัดการหน่วยความจำด้วยวิธีดั้งเดิม ทำให้มั่นใจได้ว่าซอฟต์แวร์ทำงานอย่างรวดเร็วพร้อมกับสิ่งแวดล้อมหน่วยความจำที่ปลอดภัยขึ้น คุณลักษณะการจัดการหน่วยความจำใน Rust ยังมอบการรับรองในการเขียนโปรแกรมแบบ concurrent โดยการให้ความปลอดภัยใน cause thread ด้วยตัวเลือกสำหรับการเข้าถึงสถานะที่แบ่งปันและสามารถเปลี่ยนแปลงได้ซึ่งทำให้ยากขึ้นในการทำให้เกิดความไม่ปลอดภัยต่อ cause thread
+
+
+
+
+
+

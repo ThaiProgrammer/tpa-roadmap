@@ -1,3 +1,10 @@
 # IDEs and Rust Toolchains
 
-For the Rust Programming Language, several Integrated Development Environments (IDEs) and editors provide great support. [Visual Studio Code](https://code.visualstudio.com) is highly preferred among Rust developers due to its support for Rust via the "Rust Language Server" or "rust-analyzer" plugins. [IntelliJ-based IDEs](https://www.jetbrains.com/idea/) also support Rust through their plugin. Additionally, [Sublime Text](https://www.sublimetext.com) and [Atom](https://atom.io) with respective Rust-enhancement plugins are also used. For a more terminal-centric approach, [Vim](https://www.vim.org) and [Emacs](https://www.gnu.org/software/emacs/) are equipped with Rust modes. These IDEs and editors offer various features like auto-completion, syntax highlighting, and tools for debugging which prove useful for Rust programming.
+สำหรับภาษาโปรแกรม Rust มี Integrated Development Environments (IDEs) และ Editors หลายรูปแบบที่ให้การสนับสนุนที่ดี โดย  [Visual Studio Code](https://code.visualstudio.com) เป็นที่ต้องการอย่างมากในหมู่นักพัฒนา Rust เนื่องจากมีการสนับสนุน Rust ผ่านปลั๊กอิน "Rust Language Server" หรือ "rust-analyzer" อีกทั้งมีการให้ความสนับสนุนที่ดีในระบบต่าง ๆ [IntelliJ-based IDEs](https://www.jetbrains.com/idea/) ยังรองรับ Rust ผ่านปลั๊กอินของตน นอกจากนี้ [Sublime Text](https://www.sublimetext.com ก็มีปลั๊กอินเสริมสำหรับ Rust และสำหรับคนที่ต้องการใช้แบบมีส่วนสูงสุดต่อการทำงานใน Terminal Vim และ [Emacs](https://www.gnu.org/software/emacs/) ก็มีโหมดสำหรับ Rust ไว้ให้ใช้งาน โดย IDEs และเอ็ดิเตอร์เหล่านี้มีคุณสมบัติต่าง ๆ เช่น การเติมคำ, การเน้นสัญลักษณ์, และเครื่องมือสำหรับการแก้บั๊กซึ่งเป็นประโยชน์สำหรับการเขียนโปรแกรมด้วย Rust นั่นเอง
+
+
+
+
+
+
+

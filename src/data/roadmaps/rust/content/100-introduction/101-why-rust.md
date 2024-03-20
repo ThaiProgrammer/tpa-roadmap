@@ -1,3 +1,3 @@
-# Why use Rust?
+# ทำไมต้องใช้ Rust
 
-Rust is a systems programming language that aims to provide memory safety, concurrency, and performance with a focus on zero cost abstractions. It was originally created by Graydon Hoare at Mozilla Research, with contributions from Brendan Eich, the creator of JavaScript. Rust is appreciated for the solutions it provides to common programming language issues. Its emphasis on safety and speed, the support for concurrent programming, along with a robust type system are just a few reasons why developers choose Rust.
+Rust เป็นภาษาการเขียนโปรแกรมระบบที่มีจุดมุ่งหมายเพื่อให้หน่วยความจำปลอดภัย การทำงานพร้อมกัน และประสิทธิภาพโดยมุ่งเน้นที่นามธรรมต้นทุนเป็นศูนย์ สร้างสรรค์โดย Graydon Hoare จาก Mozilla Research โดยได้รับการสนับสนุนจาก Brendan Eich ผู้สร้าง JavaScript และ Rust มีโซลูชันที่ช่วยแก้ปัญหาภาษาการเขียนโปรแกรมทั่วไป การเน้นเรื่องความปลอดภัยและความเร็ว การรองรับการเขียนโปรแกรมพร้อมกัน และระบบประเภทที่แข็งแกร่ง เป็นเพียงเหตุผลบางประการที่นักพัฒนาเลือก Rust

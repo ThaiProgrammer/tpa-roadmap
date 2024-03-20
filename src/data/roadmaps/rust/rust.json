@@ -48,7 +48,7 @@
                   "x": "18",
                   "y": "19",
                   "properties": {
-                    "text": "Find the detailed version of this roadmap",
+                    "text": "ดูประวัติการแก้ไขเอกสารและ",
                     "size": "18"
                   }
                 },
@@ -63,7 +63,7 @@
                   "x": "18",
                   "y": "88",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:roadmap.thaiprogrammer.org"
                   },
                   "children": {
                     "controls": {
@@ -89,11 +89,11 @@
                           "zOrder": "1",
                           "measuredW": "155",
                           "measuredH": "26",
-                          "x": "92",
-                          "y": "11",
+                          "x": "50",
+                          "y": "10",
                           "properties": {
                             "color": "16777215",
-                            "text": "https://roadmap.sh",
+                            "text": "roadmap.thaiprogrammer.org",
                             "size": "18"
                           }
                         }
@@ -111,7 +111,7 @@
                   "y": "48",
                   "properties": {
                     "size": "18",
-                    "text": "Along with resources and more roadmaps"
+                    "text": "รายละเอียดของความรู้อื่นๆได้ที่ลิ้งนี้"
                   }
                 }
               ]
@@ -2671,16 +2671,17 @@
             "stroke": "dotted"
           }
         },
+
         {
-          "ID": "682",
+          "ID": "4509",
           "typeID": "__group__",
-          "zOrder": "215",
-          "measuredW": "423",
-          "measuredH": "200",
-          "w": "423",
-          "h": "200",
-          "x": "128",
-          "y": "185",
+          "zOrder": "127",
+          "measuredW": "408",
+          "measuredH": "162",
+          "w": "408",
+          "h": "162",
+          "x": "308",
+          "y": "206",
           "children": {
             "controls": {
               "control": [
@@ -2688,8 +2689,8 @@
                   "ID": "0",
                   "typeID": "Canvas",
                   "zOrder": "0",
-                  "w": "423",
-                  "h": "200",
+                  "w": "408",
+                  "h": "162",
                   "measuredW": "100",
                   "measuredH": "70",
                   "x": "0",
@@ -2699,77 +2700,44 @@
                   "ID": "1",
                   "typeID": "__group__",
                   "zOrder": "1",
-                  "measuredW": "189",
-                  "measuredH": "27",
-                  "w": "189",
-                  "h": "27",
-                  "x": "28",
-                  "y": "77",
-                  "properties": {
-                    "controlName": "ext_link:roadmap.sh/backend"
-                  },
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "23",
+                  "y": "21",
                   "children": {
                     "controls": {
                       "control": [
                         {
                           "ID": "0",
-                          "typeID": "Label",
+                          "typeID": "Icon",
                           "zOrder": "0",
-                          "measuredW": "156",
-                          "measuredH": "26",
-                          "x": "33",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
                           "y": "0",
                           "properties": {
-                            "size": "18",
-                            "text": "Backend Roadmap"
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
                           }
                         },
                         {
                           "ID": "1",
-                          "typeID": "__group__",
+                          "typeID": "Icon",
                           "zOrder": "1",
                           "measuredW": "24",
                           "measuredH": "24",
-                          "w": "24",
-                          "h": "24",
                           "x": "0",
-                          "y": "3",
-                          "children": {
-                            "controls": {
-                              "control": [
-                                {
-                                  "ID": "0",
-                                  "typeID": "Icon",
-                                  "zOrder": "0",
-                                  "measuredW": "24",
-                                  "measuredH": "24",
-                                  "x": "0",
-                                  "y": "0",
-                                  "properties": {
-                                    "color": "16777215",
-                                    "icon": {
-                                      "ID": "circle",
-                                      "size": "small"
-                                    }
-                                  }
-                                },
-                                {
-                                  "ID": "1",
-                                  "typeID": "Icon",
-                                  "zOrder": "1",
-                                  "measuredW": "24",
-                                  "measuredH": "24",
-                                  "x": "0",
-                                  "y": "0",
-                                  "properties": {
-                                    "color": "10066329",
-                                    "icon": {
-                                      "ID": "check-circle",
-                                      "size": "small"
-                                    }
-                                  }
-                                }
-                              ]
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
                             }
                           }
                         }
@@ -2779,79 +2747,73 @@
                 },
                 {
                   "ID": "2",
-                  "typeID": "__group__",
+                  "typeID": "Label",
                   "zOrder": "2",
-                  "measuredW": "183",
-                  "measuredH": "27",
-                  "w": "183",
-                  "h": "27",
-                  "x": "28",
-                  "y": "113",
+                  "measuredW": "269",
+                  "measuredH": "24",
+                  "x": "59",
+                  "y": "21",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh/devops"
-                  },
+                    "size": "16",
+                    "text": "หัวข้อสำคัญที่ควรเรียนรู้"
+                  }
+                },
+                {
+                  "ID": "5",
+                  "typeID": "Label",
+                  "zOrder": "5",
+                  "w": "324",
+                  "measuredW": "315",
+                  "measuredH": "24",
+                  "x": "60",
+                  "y": "86",
+                  "properties": {
+                    "size": "16",
+                    "text": "เนื้อหาเพิ่มเติมที่เรียนเมื่อไหร่ก็ได้"
+                  }
+                },
+                {
+                  "ID": "6",
+                  "typeID": "__group__",
+                  "zOrder": "6",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "23",
+                  "y": "86",
                   "children": {
                     "controls": {
                       "control": [
                         {
                           "ID": "0",
-                          "typeID": "Label",
+                          "typeID": "Icon",
                           "zOrder": "0",
-                          "measuredW": "150",
-                          "measuredH": "26",
-                          "x": "33",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
                           "y": "0",
                           "properties": {
-                            "size": "18",
-                            "text": "DevOps Roadmap"
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
                           }
                         },
                         {
                           "ID": "1",
-                          "typeID": "__group__",
+                          "typeID": "Icon",
                           "zOrder": "1",
                           "measuredW": "24",
                           "measuredH": "24",
-                          "w": "24",
-                          "h": "24",
                           "x": "0",
-                          "y": "3",
-                          "children": {
-                            "controls": {
-                              "control": [
-                                {
-                                  "ID": "0",
-                                  "typeID": "Icon",
-                                  "zOrder": "0",
-                                  "measuredW": "24",
-                                  "measuredH": "24",
-                                  "x": "0",
-                                  "y": "0",
-                                  "properties": {
-                                    "color": "16777215",
-                                    "icon": {
-                                      "ID": "circle",
-                                      "size": "small"
-                                    }
-                                  }
-                                },
-                                {
-                                  "ID": "1",
-                                  "typeID": "Icon",
-                                  "zOrder": "1",
-                                  "measuredW": "24",
-                                  "measuredH": "24",
-                                  "x": "0",
-                                  "y": "0",
-                                  "properties": {
-                                    "color": "10066329",
-                                    "icon": {
-                                      "ID": "check-circle",
-                                      "size": "small"
-                                    }
-                                  }
-                                }
-                              ]
+                          "y": "0",
+                          "properties": {
+                            "color": "10066329",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
                             }
                           }
                         }
@@ -2860,93 +2822,76 @@
                   }
                 },
                 {
-                  "ID": "3",
+                  "ID": "7",
                   "typeID": "Label",
-                  "zOrder": "3",
-                  "measuredW": "209",
-                  "measuredH": "32",
-                  "x": "28",
-                  "y": "29",
+                  "zOrder": "7",
+                  "measuredW": "272",
+                  "measuredH": "24",
+                  "x": "59",
+                  "y": "54",
                   "properties": {
-                    "size": "24",
-                    "text": "Related Roadmaps"
+                    "size": "16",
+                    "text": "ยังไม่ต้องเรียนก็ได้ เสนอไว้เป็นทางเลือกอื่นๆ"
                   }
                 },
                 {
-                  "ID": "4",
+                  "ID": "8",
                   "typeID": "__group__",
-                  "zOrder": "4",
-                  "measuredW": "141",
-                  "measuredH": "27",
-                  "w": "141",
-                  "h": "27",
-                  "x": "28",
-                  "y": "151",
-                  "properties": {
-                    "controlName": "ext_link:roadmap.sh/golang"
-                  },
+                  "zOrder": "8",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "23",
+                  "y": "53",
                   "children": {
                     "controls": {
                       "control": [
                         {
                           "ID": "0",
-                          "typeID": "Label",
+                          "typeID": "Icon",
                           "zOrder": "0",
-                          "measuredW": "108",
-                          "measuredH": "26",
-                          "x": "33",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
                           "y": "0",
                           "properties": {
-                            "size": "18",
-                            "text": "Go Roadmap"
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
                           }
                         },
                         {
                           "ID": "1",
-                          "typeID": "__group__",
+                          "typeID": "Icon",
                           "zOrder": "1",
                           "measuredW": "24",
                           "measuredH": "24",
-                          "w": "24",
-                          "h": "24",
                           "x": "0",
-                          "y": "3",
-                          "children": {
-                            "controls": {
-                              "control": [
-                                {
-                                  "ID": "0",
-                                  "typeID": "Icon",
-                                  "zOrder": "0",
-                                  "measuredW": "24",
-                                  "measuredH": "24",
-                                  "x": "0",
-                                  "y": "0",
-                                  "properties": {
-                                    "color": "16777215",
-                                    "icon": {
-                                      "ID": "circle",
-                                      "size": "small"
-                                    }
-                                  }
-                                },
-                                {
-                                  "ID": "1",
-                                  "typeID": "Icon",
-                                  "zOrder": "1",
-                                  "measuredW": "24",
-                                  "measuredH": "24",
-                                  "x": "0",
-                                  "y": "0",
-                                  "properties": {
-                                    "color": "10066329",
-                                    "icon": {
-                                      "ID": "check-circle",
-                                      "size": "small"
-                                    }
-                                  }
-                                }
-                              ]
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "2",
+                          "typeID": "Icon",
+                          "zOrder": "2",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "3700253",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
                             }
                           }
                         }
@@ -2957,8 +2902,7 @@
               ]
             }
           }
-        },
-        {
+        },        {
           "ID": "683",
           "typeID": "__group__",
           "zOrder": "89",
@@ -2999,6 +2943,55 @@
                   "properties": {
                     "size": "17",
                     "text": "Introduction"
+                  }
+                },
+                 {
+                  "ID": "2",
+                  "typeID": "__group__",
+                  "zOrder": "2",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "180",
+                  "y": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Icon",
+                          "zOrder": "0",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Icon",
+                          "zOrder": "1",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
+                            }
+                          }
+                        }
+                      ]
+                    }
                   }
                 }
               ]
@@ -4063,7 +4056,7 @@
                   "h": "50",
                   "measuredW": "200",
                   "measuredH": "140",
-                  "x": "0",
+                  "x": "0", 
                   "y": "0",
                   "properties": {
                     "color": "16770457"
@@ -4075,11 +4068,60 @@
                   "zOrder": "1",
                   "measuredW": "105",
                   "measuredH": "25",
-                  "x": "37",
+                  "x": "45",
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "What is Rust?"
+                    "text": "อะไรคือ Rust"
+                  }
+                },
+                {
+                  "ID": "2",
+                  "typeID": "__group__",
+                  "zOrder": "2",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "155",
+                  "y": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Icon",
+                          "zOrder": "0",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Icon",
+                          "zOrder": "1",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
+                            }
+                          }
+                        }
+                      ]
+                    }
                   }
                 }
               ]
@@ -4122,11 +4164,60 @@
                   "zOrder": "1",
                   "measuredW": "112",
                   "measuredH": "25",
-                  "x": "36",
+                  "x": "30",
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Why use Rust?"
+                    "text": "ทำไมต้องใช้ Rust"
+                  }
+                },
+                {
+                  "ID": "2",
+                  "typeID": "__group__",
+                  "zOrder": "2",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "160",
+                  "y": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Icon",
+                          "zOrder": "0",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Icon",
+                          "zOrder": "1",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
+                            }
+                          }
+                        }
+                      ]
+                    }
                   }
                 }
               ]
@@ -4175,6 +4266,55 @@
                     "size": "17",
                     "text": "Memory Safety and Zero-Cost Abstractions"
                   }
+                },
+                {
+                  "ID": "2",
+                  "typeID": "__group__",
+                  "zOrder": "2",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "345",
+                  "y": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Icon",
+                          "zOrder": "0",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Icon",
+                          "zOrder": "1",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
                 }
               ]
             }
@@ -4216,11 +4356,60 @@
                   "zOrder": "1",
                   "measuredW": "194",
                   "measuredH": "25",
-                  "x": "88",
+                  "x": "110",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Installing Rust and Cargo"
+                    "text": "ติดตั้ง Rust และ Cargo"
+                  }
+                },
+                {
+                  "ID": "2",
+                  "typeID": "__group__",
+                  "zOrder": "2",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "345",
+                  "y": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Icon",
+                          "zOrder": "0",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Icon",
+                          "zOrder": "1",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
+                            }
+                          }
+                        }
+                      ]
+                    }
                   }
                 }
               ]
@@ -4263,11 +4452,59 @@
                   "zOrder": "1",
                   "measuredW": "197",
                   "measuredH": "25",
-                  "x": "86",
+                  "x": "95",
                   "y": "12",
                   "properties": {
                     "size": "17",
                     "text": "IDEs and Rust Toolchains"
+                  }
+                },                {
+                  "ID": "2",
+                  "typeID": "__group__",
+                  "zOrder": "2",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "345",
+                  "y": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Icon",
+                          "zOrder": "0",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Icon",
+                          "zOrder": "1",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
+                            }
+                          }
+                        }
+                      ]
+                    }
                   }
                 }
               ]
@@ -4315,6 +4552,54 @@
                   "properties": {
                     "size": "17",
                     "text": "Rust REPL (Rust Playground)"
+                  }
+                },  {
+                  "ID": "2",
+                  "typeID": "__group__",
+                  "zOrder": "2",
+                  "measuredW": "24",
+                  "measuredH": "24",
+                  "w": "24",
+                  "h": "24",
+                  "x": "345",
+                  "y": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Icon",
+                          "zOrder": "0",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "circle",
+                              "size": "small"
+                            }
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Icon",
+                          "zOrder": "1",
+                          "measuredW": "24",
+                          "measuredH": "24",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "10027263",
+                            "icon": {
+                              "ID": "check-circle",
+                              "size": "small"
+                            }
+                          }
+                        }
+                      ]
+                    }
                   }
                 }
               ]
