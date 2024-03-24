@@ -1,10 +1,10 @@
 # Modules
 
-Go modules are a group of related packages that are versioned and distributed together. They specify the requirements of our project, list all the required dependencies, and help us keep track of the specific versions of installed dependencies.
+Go modules คือกลุ่มของแพคเกจที่เกี่ยวข้องกันซึ่งมีการกำหนดเวอร์ชันและการเผยแพร่ร่วมกัน พวกมันจะเป็นตัวระบุข้อกำหนดของโครงการของเรา แสดงรายการการอ้างอิงที่จำเป็นทั้งหมด และช่วยให้เราติดตามเวอร์ชันเฉพาะของการอ้างอิงที่ติดตั้งไว้ 
 
-Modules are identified by a module path that is declared in the first line of the go.mod file in our project.
+โมดูลจะถูกระบุด้วย module path ซึ่งประกาศไว้ในบรรทัดแรกของไฟล์ go.mod ในโครงการของคุณ
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Modules](https://go.dev/blog/using-go-modules)
 - [Go Modules](https://www.youtube.com/watch?v=9cV1KESTJRc)

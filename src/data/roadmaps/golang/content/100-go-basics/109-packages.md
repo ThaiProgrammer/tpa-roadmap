@@ -1,8 +1,8 @@
-# Packages
+# แพ็กเกจ
 
-Packages are the most powerful part of the Go language. The purpose of a package is to design and maintain a large number of programs by grouping related features together into single units so that they can be easy to maintain and understand and independent of the other package programs. This modularity allows them to share and reuse. In Go language, every package is defined with a different name and that name is close to their functionality like “strings” package and it contains methods and functions that only related to strings.
+แพ็กเกจ (Packages) ถือเป็นหัวใจสำคัญของภาษา Go  จุดประสงค์ของแพ็กเกจคือการออกแบบและบำรุงรักษาโปรแกรมจำนวนมากโดยการจัดกลุ่มคุณลักษณะที่เกี่ยวข้องกันเข้าไว้ด้วยกันในหน่วยเดียว เพื่อให้ง่ายต่อการบำรุงรักษาและเข้าใจ และเป็นอิสระต่อโปรแกรมแพ็กเกจอื่น ๆ โมดูลนี้ช่วยให้สามารถแบ่งปันและนำกลับมาใช้ซ้ำได้ ในภาษา Go ทุกแพ็กเกจถูกกำหนดด้วยชื่อที่แตกต่างกัน และชื่อนั้นใกล้เคียงกับความสามารถของแพ็กเกจ เช่น แพ็กเกจ "strings" ซึ่งมี method และฟังก์ชันที่เกี่ยวข้องกับสตริงเท่านั้น
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [How to create a package in Go](https://www.golang-book.com/books/intro/11)
 - [How to manage external dependencies in Go](https://go.dev/doc/modules/managing-dependencies)

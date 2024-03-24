@@ -1,8 +1,8 @@
 # Range
 
-`Range` is used with `For Loops` to iterate over each element in arrays, strings and other data structures .
+`Range` ถูกใช้ร่วมกับ `For Loops` เพื่อวนซ้ำข้อมูลแต่ละตัวในอาร์เรย์ , สตริง และโครงสร้างข้อมูลอื่น ๆ
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Ranges](https://go.dev/tour/moretypes/16)
 - [Go by Example: Range](https://gobyexample.com/range)

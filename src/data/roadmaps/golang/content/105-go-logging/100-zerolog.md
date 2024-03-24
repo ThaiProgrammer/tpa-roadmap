@@ -1,9 +1,9 @@
 # Zerolog
 
-The zerolog package provides a fast and simple logger dedicated to JSON output.
+แพ็คเกจ zerolog ให้บริการเครื่องมือเขียน logger ที่เร็วและง่ายต่อการใช้งาน โดยเฉพาะอย่างยิ่งการ export เป็น JSON
 
-Zerolog's API is designed to provide both a great developer experience and stunning performance. Its unique chaining API allows zerolog to write JSON (or CBOR) log events by avoiding allocations and reflection.
+API ของ Zerolog ถูกออกแบบมาเพื่อให้ผู้พัฒนาได้รับประสบการณ์ที่ดีและประสิทธิภาพที่น่าประทับใจ เทคนิคการใช้งาน API แบบ chaining ที่เป็นเอกลักษณ์ของ Zerolog ช่วยให้ Zerolog เขียนเหตุการณ์บันทึกเป็น JSON (หรือ CBOR) โดยป้องกันการจัดสรรหน่วยความจำและการใช้ reflection ในการทำงาน
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [GitHub Repository](https://github.com/rs/zerolog)

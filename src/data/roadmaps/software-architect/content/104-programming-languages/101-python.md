@@ -1,8 +1,10 @@
 # Python
 
-Python is a multi-paradigm language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways. Python is frequently recommended as the first language new coders should learn, because of its focus on readability, consistency, and ease of use. This comes with some downsides, as the language is not especially performant in most production tasks.
+Python เป็นภาษา multi-paradigm, ด้วยความที่เป็นภาษาแบบ interpreted  ทำให้ไม่จำเป็นต้อง compile ก่อนจะรันโค้ด และ python syntax ยังสามารถเขียนโค้ดได้ในรูปแบบของ functional, procedural หรือ object-oriented ได้
 
-Visit the following resources to learn more:
+Python มักถูกแนะนำเป็นภาษาแรกสำหรับผู้เริ่มต้นเรียนเขียนโปรแกรม เพราะว่าอ่านง่าย มีการเขียนเป็น pattern และใช้งานง่าย ซึ่งข้อดีนี้ก็มาพร้อมกับข้อเสียตรงที่ python อาจไม่เหมาะกับการทำงานที่เน้น performance ใน production workload
+
+เพื่อเรียนรู้เพิ่มเติม สามารถศึกษาได้จากแหล่งข้อมูลต่อไปนี้:
 
 - [Visit Dedicated Python Roadmap](/python)
 - [Python Website](https://www.python.org/)

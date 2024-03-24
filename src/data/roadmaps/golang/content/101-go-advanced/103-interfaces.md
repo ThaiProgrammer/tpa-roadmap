@@ -1,8 +1,8 @@
 # Interfaces
 
-An interface in Go, is a type that defines a set of methods. If we have a type (e.g. struct) that implements that set of methods, then we have a type that implements this interface.
+Interface ใน Go เป็นรูปแบบของชนิดข้อมูลที่กำหนดโครงสร้างของ method ที่ต้องมีอยู่ หากเราต้องการให้ประเภทข้อมูลใดๆ สามารถใช้งานร่วมกับโค้ดอื่นๆ ที่คาดหวังให้มีพฤติกรรมที่ระบุไว้ใน interface นั้น เราสามารถใช้ interface เพื่อให้เกิดความสัมพันธ์ระหว่างประเภทข้อมูลกับโค้ดอื่นๆ ในระบบ
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Interfaces](https://go.dev/tour/methods/9)
 - [Effective Go: Interfaces](https://go.dev/doc/effective_go#interfaces)

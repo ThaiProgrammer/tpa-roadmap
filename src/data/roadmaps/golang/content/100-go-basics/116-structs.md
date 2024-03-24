@@ -1,8 +1,8 @@
 # Structs
 
-Structs are user-defined types that help us create a collection of data describing a single entity.
+Structs เป็นประเภทของข้อมูลที่ผู้ใช้กำหนดเองได้ ช่วยให้เราสร้างชุดข้อมูลที่อธิบายข้อมูลของสิ่งหนึ่งๆ ที่เป็นเอนทิตี้เดียวกันได้
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Structs](https://go.dev/tour/moretypes/2)
 - [Go by Example: Structs](https://gobyexample.com/structs)

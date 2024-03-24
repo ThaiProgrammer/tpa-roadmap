@@ -1,8 +1,8 @@
 # Go kit
 
-Go kit is a programming toolkit for building microservices (or elegant monoliths) in Go. it solves common problems in distributed systems and application architecture so you can focus on delivering business value.
+Go kit เป็นชุดเครื่องมือสำหรับการเขียนโปรแกรมใน Go ที่ใช้สำหรับการสร้าง microservices (หรือ monoliths ที่มีความเรียบง่ายและสง่างาม) โดย Go kit ช่วยแก้ปัญหาที่พบบ่อยในระบบกระจายและโครงสร้างแอปพลิเคชัน เพื่อให้คุณสามารถมุ่งเน้นการส่งมูลค่าทางธุรกิจได้เป็นหลัก
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go-kit Website](https://gokit.io/)
 - [Microservices in Go using the Go kit](https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf)

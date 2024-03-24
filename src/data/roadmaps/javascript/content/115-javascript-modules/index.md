@@ -1,8 +1,9 @@
-# Modules
+# โมดูล
 
-Modules encapsulate all sorts of code like functions and variables and expose all this to other files. Generally, we use it to break our code into separate files to make it more maintainable. They were introduced into JavaScript with ECMAScript 6.
 
-Visit the following resources to learn more:
+โมดูลจะรวบรวมโค้ดทุกประเภทใน เช่น ฟังก์ชันและตัวแปร และเปิดเผยทั้งหมดนี้กับให้ไฟล์อื่นนำไปใช้งาน ปกติแล้วเราใช้มันเพื่อแยกส่วนของโค้ดของเราออกเป็นไฟล์แยกกันเพื่อให้สามารถดูแลรักษาได้ดีขึ้น คุณสมบัตินี้ถูกนำมาใช้ใน JavaScript เวอร์ชัน ECMAScript 6
+
+เยี่ยมชมแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Modules, introduction](https://javascript.info/modules-intro)
 - [Export and Import](https://javascript.info/import-export)

@@ -1,8 +1,8 @@
 # Arrays
 
-In Go an `array` is a collection of elements of the same type with a **fixed** size defined when the array is created.
+ใน Go, `array` เป็นชุดข้อมูลของ elements ที่มีข้อมูลประเภทเดียวกัน และมีขนาด คงที่ ที่กำหนดไว้ตอนที่สร้าง `array` นั้นๆ ขึ้นมา
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Arrays](https://go.dev/tour/moretypes/6)
 - [Effective Go: Arrays](https://go.dev/doc/effective_go#arrays)

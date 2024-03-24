@@ -1,8 +1,8 @@
 # Revel
 
-Revel organizes endpoints into Controllers. They provide easy data binding and form validation. Revel makes Go Templates simple to use at scale. Register functionality to be called before or after actions.
+Revel จัดระเบียบ endpoint เป็น Controllers ซึ่งมีการให้บริการการผูกข้อมูลและการตรวจสอบความถูกต้องของฟอร์มอย่างง่ายดาย โดย Revel ทำให้ Go Templates ง่ายต่อการใช้งานในมาตราฐาน สามารถลงทะเบียนฟังก์ชันที่จะเรียกใช้ก่อนหรือหลังการดำเนินการได้อย่างสะดวก
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Revel](https://revel.github.io/tutorial/index.html)
 - [Revel Packages](https://pkg.go.dev/github.com/revel/revel)

@@ -1,7 +1,7 @@
 # Melody
 
-Melody is websocket framework based on [github.com/gorilla/websocket](https://github.com/gorilla/websocket) that abstracts away the tedious parts of handling websockets. It gets out of your way so you can write real-time apps.
+Melody เป็นเฟรมเวิร์ก websocket ที่อิงตาม [github.com/gorilla/websocket](https://github.com/gorilla/websocket) ที่จะสรุปส่วนที่น่าเบื่อของการจัดการ websockets ออกไป มันทำให้คุณไม่สามารถเขียนแอพแบบเรียลไทม์ได้
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [GitHub Repository](https://github.com/olahol/melody)

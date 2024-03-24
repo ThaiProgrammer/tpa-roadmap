@@ -1,13 +1,13 @@
 # Heimdall
 
-Heimdall is an HTTP client that helps your application make a large number of requests, at scale. With Heimdall, you can:
+Heimdall เป็น HTTP client ที่ช่วยให้แอปพลิเคชันของคุณสามารถทำการร้องขอ (request) จำนวนมากได้ และทำงานในระดับขนาดใหญ่ ด้วย Heimdall คุณสามารถ:
 
-- Use a hystrix-like circuit breaker to control failing requests
-- Add synchronous in-memory retries to each request, with the option of setting your own retrier strategy
-- Create clients with different timeouts for every request
+- ใช้วงจรการตัดเหมือน Hystrix เพื่อควบคุมร้องขอที่ล้มเหลว
+- เพิ่มการลองร้องขอในหน่วยความจำแบบซิงโครนัสสำหรับแต่ละร้องขอ พร้อมกับตัวเลือกในการตั้งค่ากลไกลองอีกครั้งเอง
+- สร้าง client ด้วยการตั้งค่าเวลา timeout ที่แตกต่างกันสำหรับแต่ละร้องขอ
 
-All HTTP methods are exposed as a fluent interface.
+ทุก method ของ HTTP ถูกเปิดเผยในรูปแบบของ fluent interface ซึ่งทำให้ใช้งานได้อย่างสะดวก
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [GitHub Repository](https://github.com/gojek/heimdall)

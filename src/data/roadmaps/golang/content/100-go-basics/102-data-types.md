@@ -1,10 +1,10 @@
-# Data Types
+# ประเภทข้อมูล
 
-Go is a statically typed programming language, which means each variable has a type defined at first and can only hold values with that type. There are two categories of types in Go: basics types and composite types.
+Go เป็นภาษาโปรแกรมแบบกำหนดประเภทข้อมูลแบบคงเส้นคงวาหรือ statically typed ซึ่งหมายความว่าตัวแปรแต่ละตัวจะมีประเภทข้อมูลที่กำหนดไว้ตั้งแต่แรกและสามารถเก็บค่าที่มีประเภทข้อมูลนั้นๆ ได้เพียงอย่างเดียว ใน Go นั้นมีประเภทข้อมูลอยู่ 2 ประเภทหลักๆ คือ ชนิดข้อมูลพื้นฐาน (basic types) และ ชนิดข้อมูลเชิงประกอบ (composite types)
 
-To learn more about types in Go, visit these resources :
+หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับประเภทข้อมูลของ Go โปรดไปที่แหล่งข้อมูลเหล่านี้:
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Basic data types](https://www.w3schools.com/go/go_data_types.php)
 - [Tour of Go: types](https://go.dev/tour/basics/11)

@@ -1,12 +1,12 @@
-# Conditional Statements
+# คำสั่งเงื่อนไข
 
-Conditional statements are used to run code only if a certain condition is true; go supports :
+คำสั่งเงื่อนไข ใช้เพื่อควบคุมการทำงานของโปรแกรม โดยให้โปรแกรมทำงานเฉพาะเมื่อเงื่อนไขที่กำหนดเป็นจริง; ภาษา Go รองรับคำสั่งเงื่อนไขดังต่อไปนี้ :
 
 - `if` statements
 - `if / else` statements
 - `switch` `case` statements
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Effective Go: if statement](https://go.dev/doc/effective_go#if)
 - [Basic conditional patterns](https://yourbasic.org/golang/if-else-statement/)

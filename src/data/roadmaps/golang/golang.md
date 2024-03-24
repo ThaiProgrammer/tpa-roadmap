@@ -3,22 +3,22 @@ jsonUrl: '/jsons/roadmaps/golang.json'
 pdfUrl: '/pdfs/roadmaps/golang.pdf'
 order: 11
 briefTitle: 'Go'
-briefDescription: 'Step by step guide to becoming a Go developer in 2023'
+briefDescription: 'ขั้นตอนแนะนำในการเตรียมความพร้อมในการเข้าสู่เส้นทางการเป็น Go developer ในปี 2024'
 title: 'Go Developer'
-description: 'Step by step guide to becoming a Go developer in 2023'
+description: 'ขั้นตอนแนะนำในการเตรียมความพร้อมในการเข้าสู่เส้นทางการเป็น Go developer ในปี 2024'
 hasTopics: true
 dimensions:
   width: 968
   height: 1495.21
 schema:
   headline: 'Go Developer Roadmap'
-  description: 'Learn how to become a Go Developer with this interactive step by step guide in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  description: 'เรียนรู้วิธีการเป็น Go Developer ด้วยคู่มือแบบโต้ตอบขั้นตอนต่อขั้นในปี 2024 พร้อมทรัพยากรและคำอธิบายสั้นๆ ที่แนบกับรายการขั้นตอนการพัฒนา เพื่อให้คุณได้เรียนรู้ทุกสิ่งที่ต้องการในที่เดียว'
   imageUrl: 'https://roadmap.sh/roadmaps/golang.png'
   datePublished: '2023-01-05'
-  dateModified: '2023-01-20'
+  dateModified: '2024-03-24'
 seo:
-  title: 'Learn to become a Go developer'
-  description: 'Community driven, articles, resources, guides, interview questions, quizzes for Go development. Learn to become a modern Go developer by following the steps, skills, resources and guides listed in this roadmap.'
+  title: 'เรียนรู้เพื่อกลายเป็น Go developer'
+  description: 'หากคุณกำลังมองหาข้อมูลเกี่ยวกับ Go developer อย่างทันสมัย มีคำแนะนำสำหรับบทความ แหล่งข้อมูล ไกด์ คำถามสัมภาษณ์ และแบบทดสอบ ที่มาจากชุมชน ซึ่งจะช่วยให้คุณเรียนรู้เป็นนักพัฒนา Go ที่ทันสมัย ตามขั้นตอน ทักษะ และทรัพยากรที่ระบุในแผนที่นี้.'
   keywords:
     - 'guide to becoming a golang developer'
     - 'guide to becoming a go developer'

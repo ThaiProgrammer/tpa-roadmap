@@ -1,10 +1,10 @@
 # Channels
 
-Channels are the pipes that connect concurrent goroutines. You can send values into channels from one goroutine and receive those values into another goroutine.
+Channels คือท่อที่เชื่อมต่อระหว่าง goroutines ที่ทำงานพร้อมกัน (concurrent goroutines) คุณสามารถส่งค่าเข้าไปใน channels จาก goroutine หนึ่ง และรับค่าเหล่านั้นได้ใน goroutine อื่น ๆ
 
-Channels are a typed conduit through which you can send and receive values with the channel operator, `<-` .
+Channels เป็นท่อที่มีประเภทและใช้เป็นตัวกลางในการส่งและรับค่าด้วยตัวดำเนินการของ channels ซึ่งคือ `<-`
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Channels](https://go.dev/tour/concurrency/2)
 - [Effective Go: Channels](https://go.dev/doc/effective_go#channels)

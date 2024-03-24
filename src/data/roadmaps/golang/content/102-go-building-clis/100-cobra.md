@@ -1,8 +1,8 @@
 # Cobra
 
-Cobra is a library for creating powerful modern CLI applications.
+Cobra เป็นไลบรารีสำหรับสร้างแอปพลิเคชัน CLI สมัยใหม่ที่ทรงพลัง 💪🏻
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Cobra Github Repo](https://github.com/spf13/cobra)
 - [Cobra Website](https://cobra.dev/)

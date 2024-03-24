@@ -1,8 +1,8 @@
-# Working with json
+# การทำงานกับ json
 
-JSON (JavaScript Object Notation) is a simple data interchange format. Syntactically it resembles the objects and lists of JavaScript. It is most commonly used for communication between web back-ends and JavaScript programs running in the browser, but it is used in many other places, too.
+JSON (JavaScript Object Notation) เป็นรูปแบบการแลกเปลี่ยนข้อมูลที่ง่าย มีลักษณะทางวากยสัมพันธ์คล้ายกับ object และ list ใน JavaScript นิยมใช้สำหรับการสื่อสารระหว่างเว็บแบ็กเอนด์กับโปรแกรม JavaScript ที่ทำงานบนเบราว์เซอร์ แต่ยังนิยมใช้ในหลายกรณีอีกด้วย
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [JSON](https://go.dev/blog/json)
 - [Guide to JSON in Golang](https://www.sohamkamani.com/golang/json/)

@@ -1,8 +1,8 @@
 # Testing Go Code
 
-Go has a built-in testing command that we can use to test our program.
+Go มีคำสั่งสำหรับการทดสอบที่มีให้อยู่แล้วและสามารถใช้เพื่อทดสอบโปรแกรมของเราได้
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Official Go Tutorial: Add a test](https://go.dev/doc/tutorial/add-a-test)
 - [Go by Example: Testing](https://gobyexample.com/testing)

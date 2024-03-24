@@ -1,12 +1,12 @@
 # For Loop
 
-Go has only one looping construct, the `for` loop. The basic `for` loop has three components separated by semicolons:
+Go มีโครงสร้างการวนซ้ำเพียงแบบเดียวคือการวนซ้ำแบบ for โดยพื้นฐานของ for loop นั้นประกอบไปด้วยสามส่วนที่แบ่งด้วย semicolons:
 
-- the init statement: executed before the first iteration
-- the condition expression: evaluated before every iteration
-- the post statement: executed at the end of every iteration
+- คำสั่ง init: ทำงานก่อนการวนซ้ำครั้งแรก
+- คำสั่งกำหนดเงื่อนไข: จะทำการเปรียบเทียบเงื่อนไขก่อนการวนซ้ำทุกครั้ง
+- คำสั่ง post: จะทำงานตรงจุดสิ้นสุดของการวนซ้ำทุกครั้ง
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [For Loop in Golang](https://go.dev/tour/flowcontrol/1)
 - [Effective Go: For loop](https://go.dev/doc/effective_go#for)

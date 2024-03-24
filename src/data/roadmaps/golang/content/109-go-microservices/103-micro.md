@@ -1,8 +1,8 @@
 # Micro
 
-It is an API first development platform. It leverages the microservices architecture pattern and provides a set of services which act as the building blocks of a platform.
+แพลตฟอร์มนี้เป็นแพลตฟอร์มที่พัฒนาด้วยแนวคิด API อย่างแรกเป็นหลัก โดยใช้รูปแบบการออกแบบที่เป็นแบบ microservices architecture และมีชุดของบริการที่ทำหน้าที่เหมือนกับบล็อกสำหรับการสร้างแพลตฟอร์ม
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Official Website](https://micro.dev/)
 - [Micro Github](https://github.com/micro/micro)

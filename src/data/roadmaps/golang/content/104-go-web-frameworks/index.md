@@ -1,12 +1,13 @@
 # Web Frameworks
 
-There are several famous web frameworks for Go. Most common ones being:
+สำหรับ Go มี web framework ที่มีชื่อเสียงมากมาย แต่ใช้งานกันบ่อยๆที่สุดก็คือ:
 
 - Beego
 - Gin
 - Revel
 - Echo
+- Fiber
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Comparison of Web Frameworks](https://github.com/diyan/go-web-framework-comparison)

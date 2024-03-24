@@ -1,8 +1,8 @@
-# Type Casting
+# การแปลงประเภทข้อมูล
 
-Go doesn't support automatic type conversion, but it allows type casting, which is the process of explicitly changing the variable type. To learn more about typecasting, visit these resources :
+ภาษา Go ไม่รองรับการแปลงประเภทข้อมูลอัตโนมัติ แต่รองรับการแปลงประเภทข้อมูลแบบ type Casting หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับ type Casting ดูได้ที่แหล่งข้อมูล :
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Geeks for Geeks: Type casting](https://www.geeksforgeeks.org/type-casting-or-type-conversion-in-golang/)
 - [Tour of Go: Type Casting Basics](https://go.dev/tour/basics/13)

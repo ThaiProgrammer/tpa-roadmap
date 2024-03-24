@@ -1,6 +1,6 @@
-# CLI Tools
+# เครื่องมือ CLI 
 
-Here is the list of most common CLI tools for React development:
+นี่คือรายการของเครื่องมือ CLI ที่ใช้กันอย่างแพร่หลายสำหรับการพัฒนา React:
 
 - [create-react-app](https://create-react-app.dev)
 - [vite](https://vitejs.dev)

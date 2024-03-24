@@ -1,16 +1,23 @@
 # Azure Devops Services
 
-Azure DevOps Services is a collection of services provided by Microsoft that can be used to plan, build, test, and deploy .NET applications. These services can be used together or independently to support various aspects of the software development process. Some of the main services include:
+Azure DevOps Services คือบริการจาก Microsoft ช่วยเพิ่มสามารถใช้ในการวางแผน, สร้าง, ทดสอบ, และปรับใช้แอปพลิเคชัน .NET คุณสามารถใช้บริการเหล่านี้ร่วมกันหรือแยกกันเพื่อสนับสนุนด้านต่างๆ ของกระบวนการพัฒนาซอฟต์แวร์ บางบริการหลัก ได้แก่:
 
-- Azure Boards: Provides features for agile planning and tracking, such as backlogs, boards, and sprint planning.
-- Azure Repos: Provides source control management for Git and Team Foundation Version Control (TFVC) repositories.
-- Azure Artifacts: Provides package management for NuGet, npm, and Maven packages.
-- Azure Test Plans: Provides support for manual and exploratory testing, as well as continuous testing and testing in production.
-- Azure Pipeline: Provides a way to build, test, and deploy code automatically, with support for multiple languages and platforms, including .NET.
+- **Azure Boards**: มีคุณสมบัติสำหรับการวางแผนและติดตามการทำงานในรูปแบบ Agile อาทิเช่น Backlogs, Boards และการวางแผนสปรินต์
+- **Azure Repos**: พื้นที่สำหรับจัดเก็บ Source Code สำหรับ Git และ Team Foundation Version Control (TFVC)
+- **Azure Artifacts**: เป็นพื้นที่สำหรับดูแลเรื่องการจัดการ Package ในภาษาต่างๆ เช่น NuGet, npm และ Maven
+- **Azure Test Plans**: ให้การสนับสนุนสำหรับการทดสอบด้วยตนเอง รวมถึงการทดสอบต่อเนื่องใน Production
+- **Azure Pipeline**: พื้นทีในการจัดการ การพัฒาระบบ, ทดสอบระบบ และติดตั้งระบบโค้ดโดยอัตโนมัติ พร้อมการสนับสนุนหลายภาษาและแพลตฟอร์ม รวมถึง .NET
 
-These services can be used to create a full-featured development environment that can be used to manage all aspects of a software development project, from planning and design to testing and deployment.
+บริการเหล่านี้สามารถใช้ในการสร้างสภาพแวดล้อมการพัฒนาที่ครบถ้วนซึ่งสามารถใช้ในการจัดการทุกด้านของโปรเจ็กต์การพัฒนาซอฟต์แวร์ ตั้งแต่การวางแผนและออกแบบจนถึงการทดสอบและการปรับใช้.
 
-For more information, visit the following links:
+ศึกษารายละเอียดเพิ่มเติมได้ที่:
 
+### ภาษาไทย
+- [Azure Base Camp: EP. 1 DevOps from Zero to Hero สำหรับนักพัฒนา หรือ Developer ห้ามพลาด](https://www.youtube.com/watch?v=xfHAWVhe8WA&list=PLHJYxRaIqrLT_eday-1kHSVakubz-gvme&index=2&t=2s)
+  
+### English
+- [Part 1: Get started with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/evolve-your-devops-practices/)
+- [Part 2: Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/build-applications-with-azure-devops/)
+- [Part 3: Deploy applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/deploy-applications-with-azure-devops/)
 - [Build, test, and deploy .NET Core apps](https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops&tabs=dotnetfive)
 - [Microsoft Azure DevOps for ASP .NET Core Web apps](https://techmindfactory.com/Microsoft-Azure-DevOps-for-ASP-.NET-Core-Web-apps/)

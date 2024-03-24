@@ -1,14 +1,14 @@
 # Grequests
 
-Golang implementation of Python Grequests library(one of well known HTTP Library in Python).
+การใช้งาน Golang ของไลบรารี Python Grequests (หนึ่งในไลบรารี HTTP ที่รู้จักกันดีใน Python)
 
-Features:
+คุณสมบัติ:
 
-- Responses can be serialized into JSON and XML
-- Easy file uploads
-- Easy file downloads
-- Support for the following HTTP verbs GET, HEAD, POST, PUT, DELETE, PATCH, OPTIONS
+- response สามารถเป็น JSON และ XML
+- อัพโหลดไฟล์ได้ง่าย
+- ดาวน์โหลดไฟล์ได้ง่าย
+- รองรับ method HTTP ต่อไปนี้ GET, HEAD, POST, PUT, DELETE, PATCH, OPTIONS
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [GitHub Repository](https://github.com/levigross/grequests)

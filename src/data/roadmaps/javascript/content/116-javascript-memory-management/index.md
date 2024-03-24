@@ -1,8 +1,8 @@
-# Memory Management
+# การจัดการหน่วยความจำ
 
-Low-level languages like C, have manual memory management primitives such as malloc() and free(). In contrast, JavaScript automatically allocates memory when objects are created and frees it when they are not used anymore (garbage collection). This automaticity is a potential source of confusion: it can give developers the false impression that they don't need to worry about memory management.
 
-Visit the following resources to learn more:
+ภาษาระดับต่ำเช่น C มีการจัดการหน่วยความจำแบบแมนนวลเช่น malloc() และ free() ในทางตรงกันข้าม JavaScript จะจัดสรรหน่วยความจำโดยอัตโนมัติเมื่อมีการสร้างอ็อบเจ็กต์ และจะปล่อยอ็อบเจ็กต์ให้ว่างเมื่อไม่ได้ใช้งานอีกต่อไป (การรวบรวมขยะ) การทำงานอัตโนมัตินี้อาจทำให้เกิดความสับสน เนื่องจากอาจทำให้นักพัฒนาเข้าใจผิดว่าพวกเขาไม่จำเป็นต้องกังวลเกี่ยวกับการจัดการหน่วยความจำ
 
+เยี่ยมชมแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 - [JavaScript Garbage Collection](https://javascript.info/garbage-collection)
 - [Memory Management in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)

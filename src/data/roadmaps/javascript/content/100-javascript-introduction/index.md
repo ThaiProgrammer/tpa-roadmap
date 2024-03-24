@@ -1,8 +1,12 @@
 # JavaScript
 
-JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. It lets us add interactivity to pages e.g. you might have seen sliders, alerts, click interactions, popups, etc on different websites -- all of that is built using JavaScript. Apart from being used in the browser, it is also used in other non-browser environments as well such as Node.js for writing server-side code in JavaScript, Electron for writing desktop applications, React Native for mobile applications, and so on.
+JavaScript บางครั้งถูกย่อว่า JS เป็นภาษาโปรแกรมที่เป็นหนึ่งในเทคโนโลยีหลักของ World Wide Web (WWW) พร้อมกับ HTML และ CSS
 
-Visit the following resources to learn more:
+JavaScript มันช่วยให้เราเพิ่มความสามารถในการโต้ตอบกับเว็บไซต์ เช่น คุณอาจจะเห็น Slider, Alert, การโต้ตอบด้วยการคลิก หรือ Popup ในเว็บไซต์ต่าง ๆ ทั้งหมดนั้นถูกสร้างขึ้นโดยใช้ JavaScript
+
+นอกจากที่ JavaScript จะถูกใช้งานใน Browser แล้ว มันยังถูกใช้งานใน Environment ที่ไม่ใช่ Browser อีกด้วย เช่น Node.js สำหรับเขียนโค้ด Server-Side, Electron สำหรับเขียน Desktop Application, React Native สำหรับเขียน Mobile Application และอื่น ๆ อีกมากมาย
+
+แหล่งเรียนรู้เพิ่มเติม (English):
 
 - [JavaScript MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [W3Schools – JavaScript Tutorial](https://www.w3schools.com/js/)

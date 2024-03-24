@@ -1,13 +1,18 @@
 # C#
 
-C# (pronounced "C-sharp") is a general-purpose, object-oriented programming language developed by Microsoft. It is part of the .NET family of languages and is used to build a wide range of applications, from web and mobile applications to games and cloud services.
+C# (ออกเสียงว่า "ซี-ชาร์ป") เป็นภาษาโปรแกรมมิ่งที่มีวัตถุประสงค์ทั่วไป และเป็นภาษาโปรแกรมมิ่งที่เน้นการเขียนโปรแกรมเชิงวัตถุ (object-oriented) ซึ่งได้รับการพัฒนาโดยไมโครซอฟท์ มันเป็นส่วนหนึ่งของครอบครัวภาษา .NET และถูกใช้ในการสร้างแอปพลิเคชั่นหลากหลายประเภท ตั้งแต่แอปพลิเคชั่นเว็บและมือถือไปจนถึงเกมและบริการบนคลาวด์
 
-C# is a statically-typed language, which means that the type of a variable must be specified when it is declared, and that the type of a value cannot be changed after it has been assigned. C# also supports object-oriented programming, which means that it provides features such as encapsulation, inheritance, and polymorphism.
+C# เป็นภาษาที่มีการกำหนดประเภทข้อมูลอย่างชัดเจน (statically-typed) ซึ่งหมายความว่าประเภทของตัวแปรจะต้องถูกระบุขณะที่มันถูกประกาศ และประเภทของค่าไม่สามารถเปลี่ยนแปลงได้หลังจากที่มันถูกกำหนด นอกจากนี้ C# ยังรองรับการเขียนโปรแกรมเชิงวัตถุ ซึ่งหมายความว่ามันมีคุณสมบัติต่างๆ เช่น การห่อหุ้ม (encapsulation), การสืบทอด (inheritance), และการพ้องรูป (polymorphism)
 
-C# is a popular language for building .NET applications, and it is used by many large companies and organizations, including Microsoft, Dell, and IBM. It is a versatile language that can be used for a wide range of purposes, and it is well-suited for building scalable and maintainable software systems.
+C# เป็นภาษายอดนิยมสำหรับการสร้างแอปพลิเคชั่น .NET และถูกใช้โดยบริษัทและองค์กรขนาดใหญ่หลายแห่ง รวมถึงไมโครซอฟท์, เดลล์, และไอบีเอ็ม เป็นภาษาที่มีความหลากหลายและสามารถใช้เพื่อจุดประสงค์ที่กว้างขวาง ทำให้เหมาะสมกับการสร้างระบบซอฟต์แวร์ที่สามารถขยายได้และบำรุงรักษาได้ง่า
 
-Visit the following links for more information:
+ศึกษารายละเอียดเพิ่มเติมได้ที่:
 
+### ภาษาไทย
+- [เขียนโค้ดด้วยภาษา C#](https://www.saladpuk.com/beginner-1/csharp101)
+- [OOP](https://www.saladpuk.com/beginner-1/oop)
+
+### English
 - [C Sharp Basics](https://www.codecademy.com/catalog/language/c-sharp)
 - [Introduction to C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
 - [Basics Of C#](https://www.c-sharpcorner.com/UploadFile/e9fdcd/basics-of-C-Sharp/)

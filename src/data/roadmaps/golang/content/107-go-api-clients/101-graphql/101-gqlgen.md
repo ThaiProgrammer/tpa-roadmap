@@ -1,8 +1,8 @@
 # Gqlgen
 
-According to their documentation, it's a Golang library for building GraphQL servers without much effort.
+ตามเอกสารประกอบของพวกเขา เป็นไลบรารี Golang สำหรับการสร้างเซิร์ฟเวอร์แบบ GraphQL โดยไม่ต้องใช้ความพยายามมากนัก
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Gqlgen website documentation](https://gqlgen.com/)
 - [Introducing gqlgen: a GraphQL Server Generator for Go](https://99designs.com.au/blog/engineering/gqlgen-a-graphql-server-generator-for-go/)

@@ -1,13 +1,13 @@
-# Functions
+# ฟังก์ชันในภาษา Go
 
-Discover how functions work in Go, the list of resources below will cover :
+เรียนรู้ว่าฟังก์ชันต่างๆ ทำงานอย่างไรใน Go ลิสต์รายการด้านล่างจะครอบคลุมถึง:
 
-- How to define and call functions in Go?
-- Named returns in Go?
-- Handle multiple return types.
-- Different types of functions in Go.
+- จะกำหนดและเรียกใช้ฟังก์ชันใน Go ได้อย่างไร?
+- ตั้งชื่อประเภทข้อมูล return ใน Go ยังไง?
+- จัดการการ return ข้อมูบหลายประเภท
+- ฟังก์ชั่นประเภทต่าง ๆ ใน Go
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go by Example: Functions](https://gobyexample.com/functions)
 - [Functions in go](https://www.golangprograms.com/go-language/functions.html)

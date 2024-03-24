@@ -1,8 +1,8 @@
 # Slices
 
-Slices are similar to arrays but are more powerful and flexible. Like arrays, slices are also used to store multiple values of the same type in a single variable. However, unlike arrays, the length of a slice can grow and shrink as you see fit.
+Slices คล้ายกับ `array` แต่มีความสามารถและความยืดหยุ่นมากกว่า `array` กับ `slice` เหมือนกันตรงที่ก็ใช้เก็บค่าหลายๆ ค่าของประเภทเดียวกันในตัวแปรเดียว แต่ต่างจาก `array` ตรงที่ความยาวของ `slice` สามารถขยายและย่อลดได้ตามต้องการของคุณ
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Slices](https://go.dev/tour/moretypes/7)
 - [Effective Go: Slices](https://go.dev/doc/effective_go#slices)

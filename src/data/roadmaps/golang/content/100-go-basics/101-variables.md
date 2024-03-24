@@ -1,8 +1,8 @@
-# Variables in Go
+# ตัวแปรใน Go
 
-Variable is the name given to a memory location to store a value of a specific [type](https://golangbot.com/types/). Go provides multiple ways to declare and use variables.
+ตัวแปร คือ ชื่อที่ตั้งให้กับตำแหน่งหน่วยความจำ เพื่อจัดเก็บค่าของประเภทข้อมูล([type](https://golangbot.com/types/)) ที่ระบุโดย Go รองรับหลายวิธีในการประกาศและใช้งานตัวแปร
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Variables](https://go.dev/tour/basics/8)
 - [Go by Example: Variables](https://gobyexample.com/variables)

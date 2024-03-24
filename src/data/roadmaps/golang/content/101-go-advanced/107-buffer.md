@@ -1,8 +1,8 @@
 # Buffer
 
-The `buffer` belongs to the byte package of the Go language, and we can use these package to manipulate the byte of the string.
+`buffer` อยู่ในแพ็กเกจ byte ของภาษา Go และเราสามารถใช้แพ็กเกจนี้เพื่อจัดการกับข้อมูล byte ของสตริงได้ โดย byte คือชนิดข้อมูลที่เก็บค่าข้อมูลแบบ binary ที่มีขนาดเพียง 1 byte ต่อค่าหนึ่งๆ ทำให้เหมาะสำหรับการจัดเก็บข้อมูลที่ไม่ได้เป็นข้อความหรือตัวอักษรเท่านั้น
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Buffer Examples](https://pkg.go.dev/bytes#example-Buffer)
 - [Buffer](https://www.educba.com/golang-buffer/)

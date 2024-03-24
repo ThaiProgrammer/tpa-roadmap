@@ -1,9 +1,9 @@
-# Building CLI Applications
+# การสร้างแอปพลิเคชัน CLI
 
-Command line interfaces (CLIs), unlike graphical user interfaces (GUIs), are text-only. Cloud and infrastructure applications are primarily CLI-based due to their easy automation and remote capabilities.
+ส่วนติดต่อผู้ใช้ผ่าน command line (CLI) ต่างจาก graphical user interfaces (GUIs) โดย CLI เป็นการควบคุมที่ใช้ข้อความเพียงเท่านั้น แอปพลิเคชันที่เกี่ยวกับคลาวด์และโครงสร้างพื้นฐานมักจะใช้ CLI เป็นหลัก เนื่องจากความสะดวกในการอัตโนมัติและความสามารถในการทำงานแบบระยะไกล
 
-Go applications are built into a single self contained binary making installing Go applications trivial; specifically, programs written in Go run on any system without requiring any existing libraries, runtimes, or dependencies. And programs written in Go have an immediate startup time—similar to C or C++ but unobtainable with other programming languages.
+แอปพลิเคชัน Go ถูกสร้างเป็นไบนารีเดียวที่มีเนื้อหาเอง ทำให้การติดตั้งแอปพลิเคชัน Go เป็นเรื่องง่าย; โดยเฉพาะโปรแกรมที่เขียนด้วย Go สามารถทำงานบนระบบใดๆ โดยไม่ต้องมีไลบรารีที่มีอยู่แล้ว, runtime, หรือ dependency ใดๆ และโปรแกรมที่เขียนด้วย Go มีเวลาเริ่มต้นการทำงานทันที—คล้ายกับ C หรือ C++ แต่ทำได้ยากกว่าด้วยภาษาโปรแกรมอื่นๆ
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Command-line Interfaces (CLIs)](https://go.dev/solutions/clis)

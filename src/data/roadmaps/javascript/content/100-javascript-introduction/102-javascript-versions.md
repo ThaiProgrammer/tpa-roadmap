@@ -1,8 +1,10 @@
 # Javascript Versions
 
-JavaScript was invented by Brendan Eich, and in 1997 it became an ECMA standard. ECMAScript is the official language name. ECMAScript versions include ES1, ES2, ES3, ES5, and ES6
+JavaScript ถูกสร้างโดย Brendan Eich และในปี ค.ศ. 1997 มันกลายเป็นมาตรฐาน ECMA โดยใช้ชื่ออย่างเป็นทางการว่า ECMAScript
 
-Visit the following resources to learn more:
+ECMAScript มีหลาย Version ประกอบไปด้วย ES1, ES2, ES3, ES5 และ ES6
+
+แหล่งเรียนรู้เพิ่มเติม (English):
 
 - [JavaScript Versions: How JavaScript has changed over the years](https://www.educative.io/blog/javascript-versions-history)
 - [Brief History of JavaScript](https://roadmap.sh/guides/history-of-javascript)

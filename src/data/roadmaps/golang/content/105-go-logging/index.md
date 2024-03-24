@@ -1,8 +1,8 @@
 # Logging
 
-Go has built-in features to make it easier for programmers to implement logging. Third parties have also built additional tools to make logging easier.
+Go มีคุณสมบัติในตัวเพื่อให้โปรแกรมเมอร์ใช้สามารถใช้งานการ log ได้ง่ายขึ้น โดยนักพัฒนาบุคคลที่สามยังได้สร้างเครื่องมือเพิ่มเติมเพื่อทำให้การ  log นั้นง่ายขึ้น
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Logging in Go: Choosing a System and Using it](https://www.honeybadger.io/blog/golang-logging/)
 - [Logging in Golang – How to Start](https://www.loggly.com/use-cases/logging-in-golang-how-to-start/)

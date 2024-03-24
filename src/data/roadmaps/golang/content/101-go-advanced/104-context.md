@@ -1,8 +1,8 @@
 # Context
 
-The `context` package provides a standard way to solve the problem of managing the state during a request. The package satisfies the need for request-scoped data and provides a standardized way to handle: Deadlines, Cancellation Signals, etc.
+แพ็กเกจ `context` ใน Go มีหน้าที่ให้วิธีการมาตรฐานในการจัดการกับสถานะของระหว่างการร้องขอ (request) แพ็กเกจนี้ช่วยแก้ปัญหาการจัดการข้อมูลที่เกี่ยวข้องกับการร้องขอและให้วิธีการมาตรฐานในการจัดการดังนี้: กำหนดเวลาสิ้นสุดการทำงาน (Deadlines), สัญญาณการยกเลิกการทำงาน (Cancellation Signals), ฯลฯ
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Context](https://pkg.go.dev/context)
 - [Go by Example: Context](https://gobyexample.com/context)

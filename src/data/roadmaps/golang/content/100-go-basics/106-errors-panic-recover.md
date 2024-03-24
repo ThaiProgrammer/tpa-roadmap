@@ -1,12 +1,12 @@
 # Errors/Panic/Recover
 
-In lieu of adding exception handlers, the Go creators exploited Go’s ability to return multiple values. The most commonly used Go technique for issuing errors is to return the error as the last value in a return.
+แทนที่จะเพิ่มตัวจัดการกรณีพบ error ผู้สร้าง Go ได้ใช้ประโยชน์จากความสามารถของ Go ในการส่งคืนค่าหลายค่า โดยวิธีการทั่วไปที่ใช้ใน Go สำหรับการจัดการข้อผิดพลาดคือการส่ง return error เป็นค่าสุดท้ายในคำสั่ง return ของฟังก์ชันแทน
 
-A panic typically means something went unexpectedly wrong. Mostly used to fail fast on errors that shouldn’t occur during normal operation, or that we aren’t prepared to handle gracefully.
+Panic มักหมายถึง มีบางอย่างผิดพลาดไปอย่างไม่คาดคิด มักใช้เพื่อหยุดการทำงานของโปรแกรมอย่างรวดเร็ว กรณีที่เกิด error ที่ไม่ควรเกิดขึ้นระหว่างการทำงานปกติ หรือ error ที่เราไม่สามารถจัดการได้อย่างราบรื่น
 
-Panic recovery in Go depends on a feature of the language called deferred functions. Go has the ability to guarantee the execution of a function at the moment its parent function returns. This happens regardless of whether the reason for the parent function’s return is a return statement, the end of the function block, or a panic.
+การจัดการภาวะฉุกเฉิน (panic recovery) ในภาษา Go อาศัยฟีเจอร์ที่เรียกว่า deferred function ฟังก์ชันเหล่านี้รับประกันว่าจะทำงานทันทีที่ฟังก์ชันแม่ (parent function) return ออกมาไม่ว่าเหตุผลที่ฟังก์ชันแม่จะ return เป็นอะไรก็ตาม เช่น คำสั่ง return จบบล็อกของฟังก์ชัน หรือเกิด panic
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Error handling and Go](https://go.dev/blog/error-handling-and-go)
 - [Go Defer, Panic and Recover](https://go.dev/blog/defer-panic-and-recover)

@@ -1,23 +1,30 @@
-# General development skills
+# ความรู้เบื้องต้นที่สำคัญที่ช่วยในการศึกษา C# ได้ดียิ่งขึ้น
 
-There are several skills that are generally considered to be important for working with .NET and C#:
+มีทักษะหลายอย่างที่ถือว่าสำคัญสำหรับการทำงานกับ .NET และ C#
 
-- Object-oriented programming: Understanding the concepts of classes, objects, inheritance, and polymorphism is essential for working with C# and the .NET Framework.
+- `การเขียนโปรแกรมเชิงวัต(Object-oriented programming)`: การเข้าใจเกี่ยวกับคลาส, วัตถุ, การสืบทอด, และพหุนาม เป็นสิ่งจำเป็นสำหรับการทำงานกับ C# และเฟรมเวิร์ก .NET
 
-- C# language: A strong understanding of the C# language, including its syntax, keywords, and built-in classes and types, is necessary for writing efficient and maintainable code.
+- `ภาษา C#: การมีความเข้าใจที่แข็งแกร่งเกี่ยวกับภาษา C#`, รวมถึงไวยากรณ์, คำสำคัญ, และคลาสและประเภทที่มีอยู่ในตัวภาษา, เป็นสิ่งจำเป็นสำหรับการเขียนโค้ดที่มีประสิทธิภาพและสามารถบำรุงรักษาได้
 
-- .NET Framework: Familiarity with the .NET Framework, including the Common Language Runtime (CLR) and the Base Class Library (BCL), is important for understanding how C# code is executed and for utilizing the framework's many built-in features.
+- `.NET Framework`: ความคุ้นเคยกับเฟรมเวิร์ก .NET, รวมถึง Common Language Runtime (CLR) และ Base Class Library (BCL), เป็นสิ่งสำคัญสำหรับการเข้าใจวิธีการทำงานของโค้ด C# และการใช้คุณสมบัติมากมายที่มีอยู่ในเฟรมเวิร์ก
 
-- Web & Software development: Knowledge of web development technologies such as HTML, CSS, JavaScript, and ASP.NET is important for creating web applications using C# and the .NET Framework and knowledge of software development methodologies such as Agile, Scrum, or Waterfall is also useful.
+- `การพัฒนาเว็บและซอฟต์แวร์`: ความรู้เกี่ยวกับเทคโนโลยีการพัฒนาเว็บ เช่น HTML, CSS, JavaScript, และ ASP.NET เป็นสิ่งสำคัญสำหรับการสร้างแอปพลิเคชันเว็บโดยใช้ C# และเฟรมเวิร์ก .NET และความรู้เกี่ยวกับวิธีการพัฒนาซอฟต์แวร์ เช่น Agile, Scrum, หรือ Waterfall ก็มีประโยชน์
 
-- Database: Familiarity with database concepts and technologies, such as SQL and ADO.NET, is important for working with data in C# applications.
+- `ฐานข้อมูล`: ความคุ้นเคยกับแนวคิดและเทคโนโลยีฐานข้อมูล, เช่น SQL และ ADO.NET, เป็นสิ่งสำคัญสำหรับการทำงานกับข้อมูลในแอปพลิเคชัน C#
 
-- Cloud computing: Familiarity with cloud computing concepts and technologies, such as Azure, is becoming increasingly important for deploying and scaling C# applications.
+- `Cloud computing`: ความคุ้นเคยกับแนวคิดและเทคโนโลยีคอมพิวติ้งบนคลาวด์, เช่น Azure, กำลังกลายเป็นสิ่งสำคัญมากขึ้นสำหรับการปรับใช้และขยายแอปพลิเคชัน C#
 
-- DevOps: Understanding of DevOps concepts and practices, such as continuous integration and continuous deployment, is necessary for automating and streamlining the software development process.
+- `DevOps`: การทำความเข้าใจในแนวคิดและปฏิบัติการของ DevOps, เช่น การรวม Source Code เข้าด้วยกันต่อเนื่อง (continuous integration) และการติดตั้งระบบอย่างต่อเนื่อง (continuous deployment) นั้นเป็นสิ่งจำเป็นสำหรับกระบวนการพัฒนาซอฟต์แวร์อัฒโนมัติ ให้เป็นไปอย่างราบรื่นและมีประสิทธิภาพมากขึ้น.
 
-For more information, visit the following links:
+## ศึกษารายละเอียดเพิ่มเติมได้ที่:
 
+### ภาษาไทย
+- [ทำเว็บต้องรู้อะไรบ้าง? เอากันตั้งแต่คอมพิวเตอร์ทำงานยังไง ไปจนถึงการสร้างเว็บเอาขึ้นออนไลน์](https://www.spicydog.org/blog/what-is-web-application/)
+- [แนะนำคำศัพท์และความรู้เบื้องต้นก่อนที่เราจะเริ่มใช้ Cloud Computing กันครับผม](https://medium.com/t-t-software-solution/introduction-to-cloud-computing-571b767a363f)
+- [บทสรุปฐานข้อมูล](https://www.saladpuk.com/beginner-1/database-design)
+
+
+### English
 - [A Step-by-Step Approach to Learn OOP](https://www.geeksforgeeks.org/a-step-by-step-approach-to-learn-object-oriented-programming/)
 - [Asp.net - Complete Tutorial](https://www.youtube.com/watch?v=kdPtNMb8tPw)
 - [Learn Cloud Computing](https://www.youtube.com/watch?v=eWwK2FKWp0g)

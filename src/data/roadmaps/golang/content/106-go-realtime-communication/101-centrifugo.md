@@ -1,8 +1,8 @@
 # Centrifugo
 
-Centrifugo is an open-source scalable real-time messaging server. Centrifugo can instantly deliver messages to application online users connected over supported transports (WebSocket, HTTP-streaming, SSE/EventSource, GRPC, SockJS, WebTransport). Centrifugo has the concept of a channel – so it's a user-facing PUB/SUB server.
+Centrifugo เป็น server การส่งข้อความแบบ real-time ที่ open-source และมีความยืดหยุ่นในการขยายขนาด server สามารถส่งข้อความไปยังผู้ใช้แอปพลิเคชันที่ออนไลน์ทันทีผ่านช่องทางที่รองรับอย่าง WebSocket, HTTP-streaming, SSE/EventSource, GRPC, SockJS, และ WebTransport ซึ่ง Centrifugo มีแนวคิดจาก channel ดังนั้นเป็น server ที่ให้บริการ PUB/SUB แก่ผู้ใช้งาน
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [GitHub Repository](https://github.com/centrifugal/centrifugo)
 - [Getting started](https://centrifugal.dev/docs/getting-started/introduction)

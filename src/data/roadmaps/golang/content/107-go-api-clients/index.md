@@ -1,7 +1,7 @@
 # API Clients
 
-An API client is a set of tools and protocols that operate from an application on a computer. They help you to bypass some operations when developing a web application rather than reinventing the wheel every time. Using a client API is a great way to speed up the development process.
+Client API คือชุดเครื่องมือและโปรโตคอลที่ทำงานจากแอปพลิเคชันบนคอมพิวเตอร์ พวกเครื่องมือเหล่านี้ช่วยให้คุณสามารถทำงานบางอย่างได้โดยไม่ต้องสร้างใหม่ทุกครั้งที่พัฒนาเว็บแอปพลิเคชัน การใช้ Client API เป็นวิธีที่ดีเพื่อเพิ่มความเร็วในกระบวนการพัฒนา
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [API Clients](https://rapidapi.com/blog/api-glossary/client/)

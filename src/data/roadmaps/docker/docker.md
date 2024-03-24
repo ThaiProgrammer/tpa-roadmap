@@ -3,9 +3,9 @@ jsonUrl: '/jsons/roadmaps/docker.json'
 pdfUrl: '/pdfs/roadmaps/docker.pdf'
 order: 14
 briefTitle: 'Docker'
-briefDescription: 'Step by step guide to learning Docker in 2023'
+briefDescription: 'ขั้นตอนคู่มือการเรียนรู้ Docker ในปี 2023'
 title: 'Docker Roadmap'
-description: 'Step by step guide to learning Docker in 2023'
+description: 'ขั้นตอนคู่มือการเรียนรู้ Docker ในปี 2023'
 isNew: false
 hasTopics: true
 dimensions:
@@ -13,7 +13,7 @@ dimensions:
   height: 1808.98
 schema:
   headline: 'Docker Roadmap'
-  description: 'Learn how to use Docker with this interactive step by step guide in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  description: 'เรียนรู้วิธีการใช้ Docker เชิงโต้ตอบเป็นขั้นตอนในปี 2023 เรามีทรัพยากรและคำอธิบายสั้น ๆ ที่แนบมากับรายการ roadmap ทำให้คุณสามารถเรียนรู้ทุกอย่างภายในที่เดียวได้'
   imageUrl: 'https://roadmap.sh/roadmaps/docker.png'
   datePublished: '2023-05-10'
   dateModified: '2023-05-10'

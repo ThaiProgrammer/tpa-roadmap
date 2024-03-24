@@ -1305,11 +1305,11 @@
                   "zOrder": "1",
                   "measuredW": "72",
                   "measuredH": "25",
-                  "x": "68",
+                  "x": "40",
                   "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "CLI Tools"
+                    "text": "การใช้ CLI Tools"
                   }
                 }
               ]

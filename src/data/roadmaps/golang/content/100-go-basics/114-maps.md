@@ -1,8 +1,8 @@
 # Maps
 
-Maps are the data structure in Go, where we use whenever we want to have mappings between key:value pairs. They have flexibility in terms of removing or adding elements into them. Maps do not allow duplicate entries while data are kept unordered.
+Map คือโครงสร้างข้อมูลใน Go ที่เราใช้เมื่อต้องการมีการจับคู่ระหว่างคีย์และค่า (key:value) พวกมันมีความยืดหยุ่นในเรื่องของการเพิ่มหรือลบ elements ได้อย่างอิสระ โดย `map` ไม่อนุญาตให้มีคีย์ที่ซ้ำกันได้ในขณะที่ข้อมูลถูกเก็บไว้โดยไม่เรียงลำดับหรือหากคุณแสดงข้อมูลทั้งหมดออกมามันอาจจะเรียงลำดับไม่เหมือนเดิมทุกครั้งที่ให้โปรแกรมทำงาน
 
-Visit the following resources to learn more:
+ดูแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Go Maps](https://go.dev/tour/moretypes/19)
 - [Effective Go: Maps](https://go.dev/doc/effective_go#maps)
