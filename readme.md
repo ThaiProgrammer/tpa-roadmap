@@ -128,8 +128,8 @@ git clone --depth=1 https://github.com/ThaiProgrammer/tpa-roadmap.git
 
 ## Thanks to all contributors ❤
 
-<a href="https://github.com/ThaiProgrammer/tpa/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ThaiProgrammer/tpa" />
+<a href="https://github.com/ThaiProgrammer/tpa-roadmap/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ThaiProgrammer/tpa-roadmap" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
