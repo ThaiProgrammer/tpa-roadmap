@@ -1,5 +1,5 @@
 # ORMs
 
-Object–relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between type systems using object-oriented programming languages. This creates, in effect, a "virtual object database", hence a layer of abstraction, that can be used from within the programming language.
+การจับคู่ออบเจกต์กับฐานข้อมูล เป็นเทคนิคในการเขียนโปรแกรมสำหรับการแปลงข้อมูลระหว่างโครงสร้างข้อมูลและโครงสร้างในภาษาโรแกรม โดยใช้ภาษาโปรแกรมแบบเชิงออบเจกต์ ที่เป็นการสร้าง "ฐานข้อมูลของออบเจกต์เสมือน" หรือ "เลเยอร์ของการนำเสนอ" ซึ่งสามารถนำไปใช้งานจากภายในภาษาโปรแกรมได้โดยอ้างอิงจากโครงสร้างของออบเจกต์หรือโมเดล
 
-Most common ORM library in Go is [GORM](https://gorm.io/).
+ตัวอย่างไลบรารี ORM ได้ยินและใช้งานกันบ่อย ๆ ใน Go เช่น [GORM](https://gorm.io/).
