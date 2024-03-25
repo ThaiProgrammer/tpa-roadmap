@@ -1,9 +1,7 @@
 # Web sockets
 
-Web sockets are defined as a two-way communication between the servers and the clients, which mean both the parties, communicate and exchange data at the same time. This protocol defines a full duplex communication from the ground up. Web sockets take a step forward in bringing desktop rich functionalities to the web browsers.
+WebSockets ถูกกำหนดให้เป็นการสื่อสารสองทางระหว่างเซิร์ฟเวอร์กับไคลเอ็นต์ ซึ่งหมายความว่าทั้งสองฝ่ายสามารถสื่อสารและแลกเปลี่ยนข้อมูลได้ในเวลาเดียวกัน โพรโตคอลนี้ถูกสร้างขึ้นมาเพื่อการสื่อสารแบบฟูลดูเพล็กซ์ (full duplex) ทำให้ WebSockets เปิดทางให้เว็บแอปพลิเคชั่นมีการสื่อสารสองทางแบบเรียลไทม์แพร่หลายมากขึ้น เช่น ระบบแชท และ กระดานราคาหุ้นแบบเรียลไทม์เป็นต้น
 
-Visit the following resources to learn more:
-
-- [Introduction to WebSockets](https://www.tutorialspoint.com/websockets/index.htm)
-- [A Beginners Guide to WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4)
-- [Socket.io Library Bidirectional and low-latency communication for every platform](https://socket.io/)
+- [แนะนำ WebSockets สำหรับผู้เริ่มต้น](https://www.tutorialspoint.com/websockets/index.htm)
+- [ไกด์เบื้องต้นสำหรับ WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4)
+- [Socket.io ไลบรารี่สำหรับสร้างการสื่อสารแบบสองทางที่มีความหน่วงต่ำ รองรับหลายแพลตฟอร์ม](https://socket.io/)

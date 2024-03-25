@@ -44,13 +44,13 @@ export function ShareRoadmapButton(props: ShareRoadmapButtonProps) {
         {!isCopied && (
           <>
             <Share2 size="15px" />
-            <span className="ml-2 hidden sm:inline">Share</span>
+            <span className="ml-2 hidden sm:inline">แชร์</span>
           </>
         )}
         {isCopied && (
           <>
             <Check size="15px" />
-            <span className="ml-2 hidden sm:inline">Copied</span>
+            <span className="ml-2 hidden sm:inline">คัดลอกแล้ว</span>
           </>
         )}
       </button>
@@ -68,7 +68,7 @@ export function ShareRoadmapButton(props: ShareRoadmapButtonProps) {
               <div className="flex w-[20px] items-center justify-center">
                 <Copy size="15px" className="text-slate-400" />
               </div>
-              Copy Link
+              คัดลอกลิงก์
             </button>
             <a
               href={twitterUrl}

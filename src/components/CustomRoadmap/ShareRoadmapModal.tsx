@@ -20,19 +20,19 @@ export const allowedVisibilityLabels: {
 }[] = [
   {
     id: 'me',
-    label: 'Only visible to me',
+    label: 'แค่ฉันเท่านั้นที่มองเห็น',
   },
   {
     id: 'public',
-    label: 'Anyone with the link',
+    label: 'ทุกคนที่มีลิงก์',
   },
   {
     id: 'team',
-    label: 'Visible to team members',
+    label: 'คนในทีมมองเห็นได้',
   },
   {
     id: 'friends',
-    label: 'Only friends can view',
+    label: 'เฉพาะเพื่อนเท่านั้นที่สามารถดูได้',
   },
 ];
 
@@ -61,13 +61,13 @@ export function ShareRoadmapModal(props: ShareRoadmapModalProps) {
 
     if (error) {
       console.error(error);
-      toast.error(error?.message || 'Something went wrong, please try again');
+      toast.error(error?.message || 'มีบางอย่างผิดพลาด โปรดลองอีกครั้ง');
       setIsLoading(false);
       return;
     }
 
     setIsLoading(false);
-    toast.success('Visibility updated');
+    toast.success('อัปเดตการมองเห็นแล้ว');
     setVisibility(newVisibility);
     currentRoadmap.set({
       ...$currentRoadmap!,
@@ -88,7 +88,7 @@ export function ShareRoadmapModal(props: ShareRoadmapModalProps) {
     <Modal onClose={onClose}>
       <div className="p-4 pb-0">
         <h1 className="text-lg font-medium leading-5 text-gray-900">
-          Updating {$currentRoadmap?.title}
+          กำลังอัปเดต {$currentRoadmap?.title}
         </h1>
       </div>
 
@@ -134,10 +134,10 @@ export function ShareRoadmapModal(props: ShareRoadmapModalProps) {
           {isLoading ? (
             <>
               <Loader2 size={14} className="mr-2 animate-spin stroke-[2.5]" />
-              Saving
+              กำลังบันทึก
             </>
           ) : (
-            'Cancel'
+            'ยกเลิก'
           )}
         </button>
         <button
@@ -147,12 +147,12 @@ export function ShareRoadmapModal(props: ShareRoadmapModalProps) {
           {isCopied ? (
             <>
               <Check size={14} className="mr-2 stroke-[2.5]" />
-              Copied
+              คัดลอกแล้ว
             </>
           ) : (
             <>
               <Copy size={14} className="mr-2 stroke-[2.5]" />
-              Copy Link
+              คัดลอกลิงก์
             </>
           )}
         </button>
