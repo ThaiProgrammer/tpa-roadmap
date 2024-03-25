@@ -55,29 +55,29 @@ export function ResourceProgressStats(props: ResourceProgressStatsProps) {
           data-progress-nums=""
         >
           <span className="mr-2.5 rounded-sm bg-yellow-200 px-1 py-0.5 text-xs font-medium uppercase text-yellow-900">
-            <span data-progress-percentage="">0</span>% Done
+          เสร็จสิ้น <span data-progress-percentage="">0</span>% 
           </span>
 
           <span className="itesm-center hidden md:flex">
             <span>
-              <span data-progress-done="">0</span> completed
+              สำเร็จ <span data-progress-done="">0</span>
             </span>
             <span className="mx-1.5 text-gray-400">&middot;</span>
             <span>
-              <span data-progress-learning="">0</span> in progress
+              กำลังดำเนินการ <span data-progress-learning="">0</span>
             </span>
             <span className="mx-1.5 text-gray-400">&middot;</span>
             <span>
-              <span data-progress-skipped="">0</span> skipped
+              ข้าม <span data-progress-skipped="">0</span>
             </span>
             <span className="mx-1.5 text-gray-400">&middot;</span>
             <span>
-              <span data-progress-total="">0</span> Total
+              ทั้งหมด <span data-progress-total="">0</span>
             </span>
           </span>
           <span className="md:hidden">
-            <span data-progress-done="">0</span> of{' '}
-            <span data-progress-total="">0</span> Done
+            เสร็จ <span data-progress-done="">0</span> จาก ทั้งหมด{' '}
+            <span data-progress-total="">0</span>
           </span>
         </p>
 
@@ -91,7 +91,7 @@ export function ResourceProgressStats(props: ResourceProgressStatsProps) {
             data-progress-nums=""
           >
             <HelpCircle className="h-3.5 w-3.5 stroke-[2.5px]" />
-            Track Progress
+            ติดตามความก้าวหน้า
           </button>
         </div>
       </div>
@@ -104,8 +104,8 @@ export function ResourceProgressStats(props: ResourceProgressStatsProps) {
           data-progress-nums=""
           className="text-gray-500 opacity-0 transition-opacity duration-300"
         >
-          <span data-progress-done="">0</span> of{' '}
-          <span data-progress-total="">0</span> Done
+          เสร็จ <span data-progress-done="">0</span> จาก ทั้งหมด{' '}
+          <span data-progress-total="">0</span>
         </span>
       </div>
     </>

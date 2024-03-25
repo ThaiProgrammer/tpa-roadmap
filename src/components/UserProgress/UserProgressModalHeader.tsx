@@ -22,25 +22,25 @@ export function UserProgressModalHeader(props: UserProgressModalHeaderProps) {
     <div className="p-4">
       <div className="mb-5 mt-0 min-h-[28px] text-left sm:text-center md:mt-4 md:h-[60px]">
         <h2 className={'mb-1 text-lg font-bold md:text-2xl'}>
-          {user?.name}'s Progress
+          ความคืบหน้าของ {user?.name}
         </h2>
         <p
           className={
             'hidden text-xs text-gray-500 sm:text-sm md:block md:text-base'
           }
         >
-          You can close this popup and start tracking your progress.
+          คุณสามารถปิดป๊อปอัปนี้และเริ่มติดตามความคืบหน้าของคุณได้
         </p>
       </div>
       <p
         className={`-mx-4 mb-3 flex items-center justify-start border-b border-t px-4 py-2 text-sm sm:hidden`}
       >
         <span className="mr-2.5 block rounded-sm bg-yellow-200 px-1 py-0.5 text-xs font-medium uppercase text-yellow-900">
-          <span>{progressPercentage}</span>% Done
+          เสร็จ <span>{progressPercentage}</span>%
         </span>
 
         <span>
-          <span>{userDone}</span> of <span>{userProgressTotal}</span> done
+          เสร็จ <span>{userDone}</span> จาก ทั้งหมด <span>{userProgressTotal}</span>
         </span>
       </p>
       <p
@@ -49,29 +49,29 @@ export function UserProgressModalHeader(props: UserProgressModalHeaderProps) {
         }`}
       >
         <span className="mr-2.5 block rounded-sm bg-yellow-200 px-1 py-0.5 text-xs font-medium uppercase text-yellow-900">
-          <span>{progressPercentage}</span>% Done
+          เสร็จ <span>{progressPercentage}</span>%
         </span>
 
         <span>
-          <span>{userDone}</span> completed
+          สำเร็จ <span>{userDone}</span>
         </span>
         <span className="mx-1.5 text-gray-400">·</span>
         <span>
-          <span>{userLearning}</span> in progress
+          กำลังดำเนินการ <span>{userLearning}</span>
         </span>
 
         {userSkipped > 0 && (
           <>
             <span className="mx-1.5 text-gray-400">·</span>
             <span>
-              <span>{userSkipped}</span> skipped
+              ข้าม <span>{userSkipped}</span>
             </span>
           </>
         )}
 
         <span className="mx-1.5 text-gray-400">·</span>
         <span>
-          <span>{userProgressTotal}</span> Total
+          ทั้งหมด <span>{userProgressTotal}</span>
         </span>
       </p>
     </div>
