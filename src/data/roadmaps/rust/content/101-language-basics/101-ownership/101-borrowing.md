@@ -1,3 +1,5 @@
 # Borrowing, References, and Slices
 
-In Rust, "borrowing" is a technique which allows you to access the data of a particular value while the owner retains control. There are two types of borrowing: mutable and immutable. Immutable borrowing means an owner can fondly permit several read-only borrows of a value at the same time as long as the value doesn't change. On the other hand, mutable borrowing allows only a single borrower at a time who can potentially modify the value. This practice is essential in maintaining the concept of ownership without violating any of its rules and avoiding the problem of dangling references.
+ใน Rust, "borrowing" เป็นเทคนิคที่ช่วยให้คุณเข้าถึงข้อมูลของค่าใดค่าหนึ่งในขณะที่เจ้าของยังคงควบคุมได้ มีสองประเภทของ borrowing: mutable และ immutable การ borrowing แบบ immutable หมายถึงเจ้าของสามารถอนุญาตให้มีการยืมค่าเป็นแบบอ่านเท่านั้นหลายรายการพร้อมกันต่อครั้ง เพียงแค่ค่าไม่เปลี่ยนแปลง ในทางกลับกัน การ borrowing แบบ mutable อนุญาตให้มีเพียงผู้ยืมเดียวต่อครั้งที่อาจทำการปรับเปลี่ยนค่าได้ การฝึกฝนนี้เป็นสิ่งสำคัญในการรักษาแนวคิดของการเป็นเจ้าของโดยไม่ละเมิดกฎใด ๆ และป้องกันปัญหาของอ้างอิงที่หลุดหลง
+
+

@@ -1,3 +1,9 @@
 # Ownership Rules and Memory Safety
 
-In Rust, the concept of ownership is described by three main rules. Firstly, each value in Rust has a variable that is called its owner. Secondly, there can only ever be one owner at a time. This prevents multiple parts of the code from trying to modify the data at once, potentially causing data races and inconsistencies. Lastly, when the owner goes out of scope, the value will be dropped. This ensures that Rust cleans up the allocated memory and other resources once they’re no longer required, thereby avoiding memory leaks.
+ใน Rust, แนวคิดเกี่ยวกับการเป็นเจ้าของระบุโดยกฎหลักสามข้อ โดยที่แรกคือทุกค่าใน Rust มีตัวแปรที่เรียกว่าเจ้าของของมัน อย่างที่สอง มีได้เพียงเจ้าของเดียวเท่านั้นในเวลาหนึ่ง ซึ่งป้องกันส่วนของโค้ดหลายส่วนพยายามแก้ไขข้อมูลพร้อมกัน ซึ่งอาจเกิดข้อผิดพลาดและความไม่สอดคล้องกันของข้อมูลได้ สุดท้ายเมื่อเจ้าของออกจากขอบเขต (out of scope) ค่าจะถูกลบทิ้ง ซึ่งทำให้ Rust ทำความสะอาดหน่วยความจำที่ถูกจองและทรัพยากรอื่น ๆ เมื่อไม่ได้ใช้งานแล้ว เพื่อป้องกันการหลุดหน่วยความจำ
+
+
+
+
+
+

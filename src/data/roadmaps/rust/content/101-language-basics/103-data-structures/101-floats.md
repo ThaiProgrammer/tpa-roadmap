@@ -1,3 +1,3 @@
 # Floats
 
-In Rust, `floats` are used to represent floating-point numbers. They are defined as numerical values with fractional components. Rust supports two types of floating-point numbers: `f32` and `f64`. These are 32-bit and 64-bit in size, respectively. `f32` is a single-precision float, while `f64` has double precision. The default type is `f64` because on modern CPUs it’s roughly the same speed as `f32` but allows more precision. You can define a float in Rust like so: `let x: f32 = 3.0;`.
+ใน Rust, `floats` ใช้เพื่อแทนจำนวนทศนิยม (floating-point numbers) ซึ่งถูกนิยามเป็นค่าตัวเลขที่มีส่วนทศนิยม Rust รองรับ two ประเภทของ floating-point numbers: `f32` และ `f64` ซึ่งมีขนาดเท่ากับ 32 บิต และ 64 บิตตามลำดับ `f32` เป็น single-precision float, ในขณะที่ `f64` มี double precision ประเภทเริ่มต้นคือ `f64` เนื่องจากบน CPU ที่สมัครเหรียญใหม่มันเร็วเกือบเท่ากับ `f32` แต่อนุญาตให้มีความแม่นยำมากกว่า คุณสามารถนิยาม float ใน Rust ได้เช่นนี้: `let x: f32 = 3.0;`
