@@ -1,6 +1,6 @@
 # Rest Parameters
 
- rest parameter คือ รูปแบบการเขียนรับฟังก์ชันพารามิเตอร์แบบไม่จำกัดจำนวน โดยข้อมูลที่ถูกส่งมาเมื่อเรียกใช้งานฟังก์ชันจะมีประเภทของข้อมูลเป็นอาเรย์ ทำให้เราสามารถเขียนสิ่งที่เรียกว่า [variadic functions](https://en.wikipedia.org/wiki/Variadic_function) ในภาษา Javasctipt ได้
+ The rest parameter คือ รูปแบบการเขียนรับฟังก์ชันพารามิเตอร์แบบไม่จำกัดจำนวน โดยข้อมูลที่ถูกส่งมาเมื่อเรียกใช้งานฟังก์ชันจะมีประเภทของข้อมูลเป็นอาเรย์ ทำให้เราสามารถเขียนสิ่งที่เรียกว่า [variadic functions](https://en.wikipedia.org/wiki/Variadic_function) ในภาษา Javasctipt ได้
 
  ```js
  function printPlace(...places) {
