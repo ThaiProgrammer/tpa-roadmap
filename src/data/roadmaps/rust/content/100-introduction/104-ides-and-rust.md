@@ -1,10 +1,3 @@
 # IDEs and Rust Toolchains
 
 สำหรับภาษาโปรแกรม Rust มี Integrated Development Environments (IDEs) และ Editors หลายรูปแบบที่ให้การสนับสนุนที่ดี โดย  [Visual Studio Code](https://code.visualstudio.com) เป็นที่ต้องการอย่างมากในหมู่นักพัฒนา Rust เนื่องจากมีการสนับสนุน Rust ผ่านปลั๊กอิน "Rust Language Server" หรือ "rust-analyzer" อีกทั้งมีการให้ความสนับสนุนที่ดีในระบบต่าง ๆ [IntelliJ-based IDEs](https://www.jetbrains.com/idea/) ยังรองรับ Rust ผ่านปลั๊กอินของตน นอกจากนี้ [Sublime Text](https://www.sublimetext.com ก็มีปลั๊กอินเสริมสำหรับ Rust และสำหรับคนที่ต้องการใช้แบบมีส่วนสูงสุดต่อการทำงานใน Terminal Vim และ [Emacs](https://www.gnu.org/software/emacs/) ก็มีโหมดสำหรับ Rust ไว้ให้ใช้งาน โดย IDEs และเอ็ดิเตอร์เหล่านี้มีคุณสมบัติต่าง ๆ เช่น การเติมคำ, การเน้นสัญลักษณ์, และเครื่องมือสำหรับการแก้บั๊กซึ่งเป็นประโยชน์สำหรับการเขียนโปรแกรมด้วย Rust นั่นเอง
-
-
-
-
-
-
-
