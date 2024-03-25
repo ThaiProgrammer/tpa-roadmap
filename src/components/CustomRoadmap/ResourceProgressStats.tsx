@@ -91,7 +91,7 @@ export function ResourceProgressStats(props: ResourceProgressStatsProps) {
             data-progress-nums=""
           >
             <HelpCircle className="h-3.5 w-3.5 stroke-[2.5px]" />
-            ติดตามความก้าวหน้า
+            ติดตามความคืบหน้า
           </button>
         </div>
       </div>
