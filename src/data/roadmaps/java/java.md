@@ -3,22 +3,22 @@ jsonUrl: '/jsons/roadmaps/java.json'
 pdfUrl: '/pdfs/roadmaps/java.pdf'
 order: 9
 briefTitle: 'Java'
-briefDescription: 'Step by step guide to becoming a Java Developer in 2023'
-title: 'Java Developer'
-description: 'Step by step guide to becoming a Java developer in 2023'
+briefDescription: 'ขั้นตอนการเตรียมความพร้อมสู่การเป็นนักพัฒนา Java ในปี 2024'
+title: 'นักพัฒนา Java'
+description: 'ขั้นตอนการเตรียมความพร้อมสู่การเป็นนักพัฒนา Java ในปี 2024'
 hasTopics: true
 dimensions:
   width: 968
   height: 1167.29
 schema:
-  headline: 'Java Developer Roadmap'
-  description: 'Learn how to become a Java Developer with this interactive step by step guide in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  headline: 'โร้ดแมพนักพัฒนา Java'
+  description: 'ขั้นตอนการเตรียมความพร้อมสู่การเป็นนักพัฒนา Java ในปี 2024 โร้ดแมพนี้เป็นสิ่งที่ขับเคลื่อนโดยชุมชน ประกอบด้วยบทความ ทรัพยากรต่างๆ คู่มือ และแบบทดสอบ สำหรับการพัฒนาจาวา คุณจะสามารถกลายเป็นนักพัฒนาจาวาได้ด้วยการปฏิบัติตามขั้นตอน และคู่มือที่ระบุไว้ในโร้ดแมพนี้'
   imageUrl: 'https://roadmap.sh/roadmaps/java.png'
   datePublished: '2023-01-05'
   dateModified: '2023-01-20'
 seo:
-  title: 'Learn to become a modern Java developer'
-  description: 'Community driven, articles, resources, guides, interview questions, quizzes for java development. Learn to become a modern Java developer by following the steps, skills, resources and guides listed in this roadmap.'
+  title: 'เรียนรู้เพื่อจะเป็นนักพัฒนา Java'
+  description: 'ขั้นตอนการเตรียมความพร้อมสู่การเป็นนักพัฒนา Java ในปี 2024 โร้ดแมพนี้เป็นสิ่งที่ขับเคลื่อนโดยชุมชน ประกอบด้วยบทความ ทรัพยากรต่างๆ คู่มือ และแบบทดสอบ สำหรับการพัฒนาจาวา คุณจะสามารถกลายเป็นนักพัฒนา Java ได้ด้วยการปฏิบัติตามขั้นตอน และคู่มือที่ระบุไว้ในโร้ดแมพนี้'
   keywords:
     - 'guide to becoming a developer'
     - 'guide to becoming a java developer'

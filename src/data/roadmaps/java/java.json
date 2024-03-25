@@ -1497,11 +1497,11 @@
                   "zOrder": "1",
                   "measuredW": "177",
                   "measuredH": "24",
-                  "x": "42",
-                  "y": "9",
+                  "x": "85",
+                  "y": "7",
                   "properties": {
                     "size": "16",
-                    "text": "Learn the Fundamentals"
+                    "text": "เรียนรู้พื้นฐาน"
                   }
                 }
               ]
@@ -1549,7 +1549,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Basic Syntax"
+                    "text": "Syntax พื้นฐาน"
                   }
                 }
               ]
@@ -1592,11 +1592,11 @@
                   "zOrder": "1",
                   "measuredW": "150",
                   "measuredH": "24",
-                  "x": "36",
+                  "x": "45",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "DataTypes, Variables"
+                    "text": "ชนิดข้อมูล และตัวแปร"
                   }
                 }
               ]
@@ -1643,7 +1643,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "OOP, Interfaces, Classes"
+                    "text": "OOP อินเตอร์เฟส และคลาส"
                   }
                 }
               ]
@@ -1686,11 +1686,11 @@
                   "zOrder": "1",
                   "measuredW": "90",
                   "measuredH": "24",
-                  "x": "66",
+                  "x": "85",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Conditionals"
+                    "text": "เงื่อนไข"
                   }
                 }
               ]
@@ -1737,7 +1737,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "DataStructures"
+                    "text": "โครงสร้างข้อมูล"
                   }
                 }
               ]
@@ -1780,11 +1780,11 @@
                   "zOrder": "1",
                   "measuredW": "71",
                   "measuredH": "24",
-                  "x": "75",
+                  "x": "85",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Functions"
+                    "text": "ฟังก์ชั่น"
                   }
                 }
               ]
@@ -1827,11 +1827,11 @@
                   "zOrder": "1",
                   "measuredW": "71",
                   "measuredH": "24",
-                  "x": "104",
+                  "x": "107",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Packages"
+                    "text": "แพ็คเกจ"
                   }
                 }
               ]
@@ -1874,11 +1874,11 @@
                   "zOrder": "1",
                   "measuredW": "199",
                   "measuredH": "24",
-                  "x": "40",
+                  "x": "65",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Working with Files and APIs"
+                    "text": "จัดการกับไฟล์ และ API"
                   }
                 }
               ]
@@ -1925,7 +1925,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Loops"
+                    "text": "วนลูป"
                   }
                 }
               ]
@@ -1968,11 +1968,11 @@
                   "zOrder": "1",
                   "measuredW": "113",
                   "measuredH": "24",
-                  "x": "85",
-                  "y": "10",
+                  "x": "100",
+                  "y": "8",
                   "properties": {
                     "size": "16",
-                    "text": "Getting Deeper"
+                    "text": "เนื้อหาขั้นสูง"
                   }
                 }
               ]
@@ -2015,11 +2015,11 @@
                   "zOrder": "1",
                   "measuredW": "121",
                   "measuredH": "24",
-                  "x": "50",
+                  "x": "46",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "How JVM works?"
+                    "text": "JVM ทำงานอย่างไร?"
                   }
                 }
               ]
@@ -2062,11 +2062,11 @@
                   "zOrder": "1",
                   "measuredW": "141",
                   "measuredH": "24",
-                  "x": "40",
+                  "x": "48",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Garbage Collection"
+                    "text": "การ์เบจคอลเล็คชั่น"
                   }
                 }
               ]
@@ -2109,11 +2109,11 @@
                   "zOrder": "1",
                   "measuredW": "130",
                   "measuredH": "24",
-                  "x": "46",
+                  "x": "55",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Basics of Threads"
+                    "text": "พื้นฐานของเทรด"
                   }
                 }
               ]
@@ -2156,11 +2156,11 @@
                   "zOrder": "1",
                   "measuredW": "141",
                   "measuredH": "24",
-                  "x": "22",
+                  "x": "29",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Exception Handling"
+                    "text": "จัดการข้อผิดพลาด"
                   }
                 }
               ]
@@ -2207,7 +2207,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Memory Management"
+                    "text": "จัดการหน่วยความจำ"
                   }
                 }
               ]
@@ -2254,7 +2254,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Collection Framework"
+                    "text": "คอลเล็คชั่นเฟรมเวิร์ค"
                   }
                 }
               ]
@@ -2301,7 +2301,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Generics"
+                    "text": "เจนเนอริก"
                   }
                 }
               ]
@@ -2344,11 +2344,11 @@
                   "zOrder": "1",
                   "measuredW": "60",
                   "measuredH": "24",
-                  "x": "29",
+                  "x": "35",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Streams"
+                    "text": "สตรีม"
                   }
                 }
               ]
@@ -2391,11 +2391,11 @@
                   "zOrder": "1",
                   "measuredW": "89",
                   "measuredH": "24",
-                  "x": "66",
+                  "x": "37",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Serialization"
+                    "text": "กลไกการแปลงข้อมูล"
                   }
                 }
               ]
@@ -2442,7 +2442,7 @@
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Networking & Sockets"
+                    "text": "เครือข่ายแบบซ็อกเก็ต"
                   }
                 }
               ]
@@ -2485,11 +2485,11 @@
                   "zOrder": "1",
                   "measuredW": "78",
                   "measuredH": "24",
-                  "x": "46",
-                  "y": "10",
+                  "x": "18",
+                  "y": "8",
                   "properties": {
                     "size": "16",
-                    "text": "Build Tools"
+                    "text": "เครื่องมือในการสร้าง"
                   }
                 }
               ]
@@ -2673,11 +2673,11 @@
                   "zOrder": "1",
                   "measuredW": "125",
                   "measuredH": "24",
-                  "x": "46",
-                  "y": "10",
+                  "x": "65",
+                  "y": "8",
                   "properties": {
                     "size": "16",
-                    "text": "Web Frameworks"
+                    "text": "เว็บเฟรมเวิร์ค"
                   }
                 }
               ]
@@ -2814,11 +2814,11 @@
                   "zOrder": "1",
                   "measuredW": "114",
                   "measuredH": "24",
-                  "x": "54",
+                  "x": "61",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Play Framework"
+                    "text": "เพลย์เฟรมเวิร์ค"
                   }
                 }
               ]
@@ -3143,11 +3143,11 @@
                   "zOrder": "1",
                   "measuredW": "151",
                   "measuredH": "24",
-                  "x": "44",
-                  "y": "10",
+                  "x": "65",
+                  "y": "8",
                   "properties": {
                     "size": "16",
-                    "text": "Logging Frameworks"
+                    "text": "ล็อกกิ้งเฟรมเวิร์ค"
                   }
                 }
               ]
@@ -3425,11 +3425,11 @@
                   "zOrder": "1",
                   "measuredW": "128",
                   "measuredH": "24",
-                  "x": "37",
+                  "x": "65",
                   "y": "9",
                   "properties": {
                     "size": "16",
-                    "text": "Testing your Apps"
+                    "text": "ทดสอบแอพ"
                   }
                 }
               ]
@@ -3526,11 +3526,11 @@
           "zOrder": "94",
           "measuredW": "121",
           "measuredH": "24",
-          "x": "807",
+          "x": "821",
           "y": "1080",
           "properties": {
             "size": "16",
-            "text": "Behavior Testing"
+            "text": "ทดสอบพฤติกรรม"
           }
         },
         {
@@ -3691,11 +3691,11 @@
           "zOrder": "99",
           "measuredW": "135",
           "measuredH": "24",
-          "x": "275",
+          "x": "290",
           "y": "1217",
           "properties": {
             "size": "16",
-            "text": "Integration Testing"
+            "text": "ทดสอบรวมส่วน"
           }
         },
         {
@@ -3809,11 +3809,11 @@
           "zOrder": "103",
           "measuredW": "86",
           "measuredH": "24",
-          "x": "143",
+          "x": "130",
           "y": "1216",
           "properties": {
             "size": "16",
-            "text": "Unit Testing"
+            "text": "ทดสอบแต่ละส่วน"
           }
         },
         {
