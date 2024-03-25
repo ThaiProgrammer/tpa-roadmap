@@ -3,9 +3,9 @@ jsonUrl: '/jsons/roadmaps/mongodb.json'
 pdfUrl: '/pdfs/roadmaps/mongodb.pdf'
 order: 14
 briefTitle: 'MongoDB'
-briefDescription: 'Step by step guide to learning MongoDB in 2023'
+briefDescription: 'ขั้นตอนสู่การเป็นผู้ชำนาญการใช้ MongoDB ในปี 2024'
 title: 'MongoDB Roadmap'
-description: 'Step by step guide to learning MongoDB in 2023'
+description: 'เส้นทางสู่การเรียนรู้ MongoDB ในปี 2024'
 isNew: false
 hasTopics: true
 dimensions:
@@ -13,13 +13,13 @@ dimensions:
   height: 2123.45
 schema:
   headline: 'MongoDB Roadmap: Step by step guide to learning MongoDB in 2023'
-  description: 'Learn how to use MongoDB with this interactive step by step guide in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  description: 'เรียนรู้วิธีการเป็นผู้ชำนาญการใช้ MongoDB ในปี 2024 แบบทีละขั้นตอน ด้วยเนื้อหาที่มาในรูปแบบของ Roadmap ที่ประกอบไปด้วยคำอธิบายสั้นๆและสามารถที่จะโต้ตอบกับผู้เรียนได้ด้วย เพื่อให้คุณสามารถเรียนรู้ทุกสิ่งที่คุณต้องการได้ในที่เดียวครบเลยครับผม'
   imageUrl: 'https://roadmap.sh/roadmaps/mongodb.png'
-  datePublished: '2023-03-16'
-  dateModified: '2023-03-16'
+  datePublished: '2024-03-25'
+  dateModified: '2024-03-25'
 seo:
-  title: 'MongoDB Roadmap - roadmap.sh'
-  description: 'Step by step guide to learn MongoDB in 2023. We also have resources and short descriptions attached to the roadmap items so you can get everything you want to learn in one place.'
+  title: 'เส้นทางสู่การเป็นผู้ชำนาญในการใช้ MongoDB'
+  description: 'แหล่งเรียนรู้ที่รวบรวมเนื้อหาที่เกี่ยวข้องกับ MongoDB โดยประกอบไปด้วย บทความ, คู่มือ, คำถามสำหรับสัมภาษณ์และแบบทดสอบ'
   keywords:
     - 'mongodb tutorial'
     - 'step by step mongodb'
