@@ -1,8 +1,8 @@
 # Tailwind CSS
 
-CSS Framework that provides atomic CSS classes to help you style components e.g. `flex`, `pt-4`, `text-center` and `rotate-90` that can be composed to build any design, directly in your markup.
+Tailwind CSS คือ CSS Utility Framework ที่ให้ Class สำเร็จรูปมาให้เราสามารถใช้งานได้ทันทีเพื่อช่วยในการกำหนดสไตล์ให้กับคอมโพเนนต์ต่างๆใน UI ของเว็บเรา เช่น&nbsp;`flex`, `pt-4`, `text-center` และ `rotate-90` โดย Class เหล่านี้สามารถนำมาประกอบกันเพื่อสร้างดีไซน์ต่างๆได้ตามใจนึก
 
-Visit the following resources to learn more:
+เยี่ยมชมแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
 - [Tailwind Website](https://tailwindcss.com)
 - [Tailwind CSS Full Course for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo)

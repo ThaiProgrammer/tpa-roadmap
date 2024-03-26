@@ -4968,11 +4968,11 @@
                   "zOrder": "1",
                   "measuredW": "92",
                   "measuredH": "25",
-                  "x": "44",
-                  "y": "13",
+                  "x": "40",
+                  "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "Writing CSS"
+                    "text": "การเขียน CSS"
                   }
                 }
               ]
