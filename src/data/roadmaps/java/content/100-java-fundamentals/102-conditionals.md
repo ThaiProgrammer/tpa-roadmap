@@ -43,7 +43,6 @@ Java มีคำสั่งที่จะควบคุมเงื่อน
 
 สามารถเยี่ยมชมข้อมูลเพิ่มเติม : 
 
-
 - [คำสั่งเช็คเงื่อนไข if else, switch](https://www.matterdevs.com/java-programming-lang-series-conditional/)
 - [คำสั่งเลือกเงื่อนไข if-else, switch](https://marcuscode.com/lang/java/selection-statements#google_vignette)
 - [What are Conditional statements?](https://www.educative.io/answers/what-are-conditional-statements-in-programming)
