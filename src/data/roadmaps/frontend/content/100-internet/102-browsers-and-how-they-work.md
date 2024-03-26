@@ -1,10 +1,10 @@
-# Browsers
+# เบราว์เซอร์
 
-A web browser is a software application that enables a user to access and display web pages or other online content through its graphical user interface.
+เว็บเบราว์เซอร์คือซอฟต์แวร์แอปพลิเคชันที่ทำให้ผู้ใช้สามารถเข้าถึงและแสดงผลหน้าเว็บหรือเนื้อหาออนไลน์อื่นๆ ผ่านทางหน้าจอ
 
-Visit the following resources to learn more:
+เยี่ยมชมแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
-- [How Browsers Work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-- [Role of Rendering Engine in Browsers](https://www.browserstack.com/guide/browser-rendering-engine)
-- [Populating the Page: How Browsers Work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- [How Do Web Browsers Work?](https://www.youtube.com/watch?v=WjDrMKZWCt0)
+- [เบราว์เซอร์ทำงานอย่างไร?](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [บทบาทหน้าที่ของ Rendering Engine ในเบราว์เซอร์](https://www.browserstack.com/guide/browser-rendering-engine)
+- [Populating the Page: เบราว์เซอร์ทำงานอย่างไร](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [เว็บเบราว์เซอร์ทำงานอย่างไร? (Youtube)](https://www.youtube.com/watch?v=WjDrMKZWCt0)

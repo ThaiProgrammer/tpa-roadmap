@@ -484,10 +484,10 @@
                   "zOrder": "1",
                   "measuredW": "62",
                   "measuredH": "25",
-                  "x": "57",
-                  "y": "13",
+                  "x": "50",
+                  "y": "11",
                   "properties": {
-                    "text": "Internet",
+                    "text": "อินเทอร์เน็ต",
                     "size": "17"
                   }
                 }
@@ -532,11 +532,11 @@
                   "w": "223",
                   "measuredW": "219",
                   "measuredH": "25",
-                  "x": "38",
-                  "y": "12",
+                  "x": "50",
+                  "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "How does the internet work?"
+                    "text": "อินเทอร์เน็ตทำงานอย่างไร?"
                   }
                 },
                 {
@@ -613,10 +613,10 @@
                   "measuredW": "113",
                   "measuredH": "25",
                   "x": "90",
-                  "y": "12",
+                  "y": "11",
                   "properties": {
                     "size": "17",
-                    "text": "What is HTTP?"
+                    "text": "HTTP คืออะไร?"
                   }
                 },
                 {
@@ -692,11 +692,11 @@
                   "w": "230",
                   "measuredW": "225",
                   "measuredH": "25",
-                  "x": "34",
+                  "x": "52",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Browsers and how they work?"
+                    "text": "Browsers ทำงานอย่างไร?"
                   }
                 },
                 {
@@ -772,11 +772,11 @@
                   "w": "179",
                   "measuredW": "175",
                   "measuredH": "25",
-                  "x": "59",
+                  "x": "66",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "DNS and how it works?"
+                    "text": "DNS ทำงานอย่างไร?"
                   }
                 },
                 {
@@ -856,7 +856,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is Domain Name?"
+                    "text": "Domain Name คืออะไร?"
                   }
                 },
                 {
@@ -936,7 +936,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is hosting?"
+                    "text": "Hosting คืออะไร?"
                   }
                 },
                 {
