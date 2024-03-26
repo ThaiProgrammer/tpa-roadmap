@@ -3161,11 +3161,11 @@
                   "zOrder": "1",
                   "measuredW": "136",
                   "measuredH": "26",
-                  "x": "103",
+                  "x": "70",
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Pick a Language"
+                    "text": "เลือกเรียนภาษาคอมพิวเตอร์"
                   }
                 }
               ]
@@ -3353,7 +3353,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Data Structures"
+                    "text": "โครงสร้างข้อมูล"
                   }
                 }
               ]
@@ -4251,7 +4251,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Asymptotic Notation"
+                    "text": "สัญกรณ์ Asymptotic"
                   }
                 }
               ]
@@ -4721,7 +4721,7 @@
                   "y": "12",
                   "properties": {
                     "size": "18",
-                    "text": "Common Algorithms"
+                    "text": "Algorithms ที่ควรรู้"
                   }
                 }
               ]
