@@ -1,8 +1,8 @@
-# DNS
+# ระบบชื่อโดเมน (DNS)
 
-The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com. Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+ระบบชื่อโดเมน (Domain Name System : DNS) เปรียบเหมือนสมุดโทรเลขของโลกอินเตอร์เน็ต ผู้คนสามารถที่จะเข้าถึงข้อมูลออนไลน์ต่างๆผ่านชื่อโดเมนเหล่านี้ เช่น nytimes.com หรือ espn.com เว็บเบราเซอร์ทำงานผ่านที่อยู่ IP ระบบชื่อโดเมนจะทำการแปลงชื่อโดเมนเป็น รหัสไอพีเพื่อที่เบราเซอร์สามารถดาวน์โหลดข้อมูลบนอินเตอร์เน็ตได้
 
-Visit the following resources to learn more:
+ท่านสามารถกดลิ้งค์ข้างต้นเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับอินเตอร์เน็ต: 
 
 - [What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
 - [Mess with DNS - DNS Playground](https://messwithdns.net/)

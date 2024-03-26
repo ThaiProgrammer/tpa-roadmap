@@ -1,8 +1,8 @@
-# Internet
+# อินเตอร์เน็ต
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+อินเตอร์เน็ต คือ โครงข่ายทั่วโลกของคอมพิวเตอร์ที่ซึ่งถูกเชื่อมต่อเข้าหากันโดยสื่อสารผ่านทางข้อกำหนดที่เป็นมาตรฐาน
 
-Visit the following resources to learn more:
+ท่านสามารถกดลิ้งค์ข้างต้นเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับอินเตอร์เน็ต: 
 
 - [How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
 - [How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)

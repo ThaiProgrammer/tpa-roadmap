@@ -1,8 +1,8 @@
-# Hosting
+# โฮสติ้ง ( Hosting )
 
-Web hosting is an online service that allows you to publish your website files onto the internet. So, anyone who has access to the internet has access to your website.
+การโฮสเว็บไซต์ คือ บริการออนไลน์ที่อนุญาติให้คุณขึ้นหน้าเว็บไซต์บนโลกอินเตอร์ได้ ดังนั้น ใครก็ตามที่สามารถเข้าถึงอินเตอร์เน็ตก็จะสามารถเข้าถึงเว็บไซต์ของคุณได้เช่นกัน
 
-Visit the following resources to learn more:
+ท่านสามารถกดลิ้งค์ข้างต้นเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับอินเตอร์เน็ต: 
 
 - [What Is Web Hosting? Explained](https://www.youtube.com/watch?v=htbY9-yggB0)
 - [Different Types of Web Hosting Explained](https://www.youtube.com/watch?v=AXVZYzw8geg)

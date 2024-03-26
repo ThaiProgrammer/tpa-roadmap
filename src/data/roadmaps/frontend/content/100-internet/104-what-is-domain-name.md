@@ -1,8 +1,8 @@
-# Domain Name
+# ชื่อโดเมน
 
-A domain name is a unique, easy-to-remember address used to access websites, such as ‘google.com’, and ‘facebook.com’. Users can connect to websites using domain names thanks to the Domain Name System (DNS).
+ระบบชื่อโดเมน นั้นเป็นชื่อที่ไม่สามารถซ้ำได้และง่ายต่อการจำถูกใช้เพื่อเข้าเว็บไซต์ต่างๆ ยกตัวอย่างเช่น google.com แลพ facebook.com ผู้ใช้งานสามารถเชื่อมต่อเว็บไซต์ต่างๆโดยใช้ชื่อโดเมนผ่านระบบ DNS
 
-Visit the following resources to learn more:
+ท่านสามารถกดลิ้งค์ข้างต้นเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับอินเตอร์เน็ต: 
 
 - [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
 - [What is a Domain Name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)

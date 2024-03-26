@@ -487,7 +487,7 @@
                   "x": "57",
                   "y": "13",
                   "properties": {
-                    "text": "Internet",
+                    "text": "อินเตอร์เน็ต",
                     "size": "17"
                   }
                 }
@@ -532,11 +532,11 @@
                   "w": "223",
                   "measuredW": "219",
                   "measuredH": "25",
-                  "x": "38",
+                  "x": "60",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "How does the internet work?"
+                    "text": "อินเตอร์เน็ตทำงานอย่างไร"
                   }
                 },
                 {
@@ -616,7 +616,7 @@
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is HTTP?"
+                    "text": "HTTP คืออะไร"
                   }
                 },
                 {
@@ -692,11 +692,11 @@
                   "w": "230",
                   "measuredW": "225",
                   "measuredH": "25",
-                  "x": "34",
+                  "x": "20",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Browsers and how they work?"
+                    "text": "เบราเซอร์คืออะไรและทำงานอย่างไร?"
                   }
                 },
                 {
@@ -772,11 +772,11 @@
                   "w": "179",
                   "measuredW": "175",
                   "measuredH": "25",
-                  "x": "59",
+                  "x": "35",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "DNS and how it works?"
+                    "text": "DNS คืออะไร และ ทำงานอย่างไร"
                   }
                 },
                 {
@@ -852,11 +852,11 @@
                   "w": "189",
                   "measuredW": "180",
                   "measuredH": "25",
-                  "x": "55",
+                  "x": "90",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is Domain Name?"
+                    "text": "ชื่อโดเมน คืออะไร"
                   }
                 },
                 {
@@ -932,11 +932,11 @@
                   "w": "133",
                   "measuredW": "126",
                   "measuredH": "25",
-                  "x": "74",
+                  "x": "90",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "What is hosting?"
+                    "text": "การโฮสติ้ง คืออะไร"
                   }
                 },
                 {
