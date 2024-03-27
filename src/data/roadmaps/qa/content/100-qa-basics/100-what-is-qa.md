@@ -1,16 +1,19 @@
 # What is Quality
 
-Quality is extremely hard to define, and it is simply stated: “Fit for use or purpose.” It is all about meeting the needs and expectations of customers concerning the functionality, design, reliability, durability, & price of the product.
+การให้คำนิยามของคำว่าคุณภาพนั้นเป็นสิ่งที่ทำได้ยาก แต่สามารถอธิบายได้อย่างง่ายว่าคือ "เหมาะสำหรับการใช้งานหรือวัตถุประสงค์นั้นๆ" มันเกี่ยวข้องกับการตอบสนองความต้องการและความคาดหวังของลูกค้าเกี่ยวกับฟังก์ชันการทำงาน การออกแบบ ความน่าเชื่อถือ ความทนทาน และราคาของผลิตภัณฑ์นั้น
 
 ## What is Assurance
 
-Assurance is nothing but a positive declaration of a product or service, which gives confidence. It is certain of a product or a service which it will work well. It provides a guarantee that the product will work without any problems as per the expectations or requirements.
+การรับประกันคือการประกาศเชิงบวกของผลิตภัณฑ์หรือบริการ ซึ่งให้ความมั่นใจมันเป็นความแน่นอนของผลิตภัณฑ์หรือบริการที่จะทำงานได้อย่างดี ให้การรับประกันว่าผลิตภัณฑ์จะทำงานได้โดยปราศจากปัญหาตามความคาดหวังหรือข้อกำหนดที่ต้องการ
 
-## Quality Assurance in Software Testing
+## Quality Assurance ในการทดสอบซอฟต์แวร์
 
-Quality Assurance in Software Testing is defined as a procedure to ensure the quality of software products or services provided to the customers by an organization. Quality assurance focuses on improving the [software development process](https://www.guru99.com/software-development-life-cycle-tutorial.html) and making it efficient and effective per the quality standards defined for software products. Quality Assurance is popularly known as QA Testing.
+การประกันคุณภาพในการทดสอบซอฟต์แวร์ถูกนิยามว่าเป็นขั้นตอนในการประกันคุณภาพของผลิตภัณฑ์หรือบริการซอฟต์แวร์ที่จัดหาให้กับลูกค้าโดยองค์กร การประกันคุณภาพมุ่งเน้นไปที่การปรับปรุง[กระบวนการพัฒนาซอฟต์แวร์](https://www.foxbith.com/blog/what-is-software-development-process)และทำให้มีประสิทธิภาพและประสิทธิผลตามมาตรฐานคุณภาพที่กำหนดไว้สำหรับผลิตภัณฑ์ซอฟต์แวร์ Quality Assurance เป็นที่รู้จักอย่างแพร่หลายว่าการทดสอบคุณภาพ (QA Testing)
 
-Visit the following resources to learn more:
+ศึกษารายละเอียดเพิ่มเติมได้ที่:
 
+### English
+
+- [Software Development Life Cycle (SDLC) Phases & Models](https://www.guru99.com/software-development-life-cycle-tutorial.html)
 - [What is Quality Assurance(QA)? Process, Methods, Examples](https://www.guru99.com/all-about-quality-assurance.html)
 - [What Do Software Testers Do?](https://www.ministryoftesting.com/dojo/lessons/what-do-software-testers-do-version-0-1)
