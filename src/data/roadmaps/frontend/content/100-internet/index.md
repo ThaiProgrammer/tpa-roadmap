@@ -1,13 +1,13 @@
-# Internet
+# อินเทอร์เน็ต
 
-The Internet is a global network of computers connected to each other which communicate through a standardized set of protocols.
+อินเทอร์เน็ตคือเครือข่ายคอมพิวเตอร์ระดับโลกที่เชื่อมต่อกันและสื่อสารกันผ่านชุดโปรโตคอลมาตรฐาน
 
-Visit the following resources to learn more:
+เยี่ยมชมแหล่งข้อมูลต่อไปนี้เพื่อเรียนรู้เพิ่มเติม:
 
-- [How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
-- [The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
-- [How Does the Internet Work?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
-- [Introduction to Internet](/guides/what-is-internet)
-- [Learn How the Web Works](https://internetfundamentals.com)
-- [How does the Internet work?](https://www.youtube.com/watch?v=x3c1ih2NJEg)
-- [How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [อินเทอร์เน็ตทำงานอย่างไร?](https://cs.fyi/guide/how-does-internet-work)
+- [อธิบายเกี่ยวกับอินเทอร์เน็ต](https://www.vox.com/2014/6/16/18076282/the-internet)
+- [อินเทอร์เน็ตทำงานอย่างไร?](http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+- [ความรู้เบื้องต้นเกี่ยวกับอินเทอร์เน็ต](/guides/what-is-internet)
+- [เรียนรู้วิธีการทำงานของเว็บไซต์](https://internetfundamentals.com)
+- [อินเทอร์เน็ตทำงานอย่างไร? (Youtube)](https://www.youtube.com/watch?v=x3c1ih2NJEg)
+- [วิธีการทำงานของอินเทอร์เน็ตภายใน 5 นาที](https://www.youtube.com/watch?v=7_LPdttKXPc)

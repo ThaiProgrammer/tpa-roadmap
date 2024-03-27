@@ -1,3 +1,3 @@
-# Modern CSS
+# CSS สมัยใหม่
 
-The way we write CSS in our modern front-end applications is completely different from how we used to write CSS before. There are methods such as Styled Components, CSS Modules, Styled JSX, Emotion, etc
+วิธีการเขียน CSS ในแอปพลิเคชันฝั่ง front-end ของเราในยุคปัจจุบันนั้นต่างออกไปอย่างสิ้นเชิงจากวิธีการเขียน CSS ที่เราใช้กันมาก่อน โดยเรามีวิธีการเขียนแบบสมัยใหม่เช่น Styled Components, CSS Modules, Styled JSX, Emotion, เป็นต้น
