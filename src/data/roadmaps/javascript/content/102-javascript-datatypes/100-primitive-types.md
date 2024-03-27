@@ -1,6 +1,6 @@
-# Primitive Types
+# ชนิดข้อมูลพื้นฐาน
 
-In JavaScript, a primitive (primitive value, primitive data type) is data that is not an object and has no methods or properties. There are 7 primitive data types:
+ใน JavaScript ข้อมูลพื้นฐาน (primitive value, primitive data type) คือข้อมูลที่ไม่ใช่วัตถุและไม่มีเมธอดหรือคุณสมบัติ มีทั้งหมด 7 ประเภท:
 
 - `string`
 - `number`
@@ -10,8 +10,8 @@ In JavaScript, a primitive (primitive value, primitive data type) is data that i
 - `Symbol`
 - `null`
 
-Most of the time, a primitive value is represented directly at the lowest level of the language implementation.
+ส่วนใหญ่แล้ว ค่าข้อมูลพื้นฐานจะถูกแทนค่าโดยตรงในระดับล่างสุดของการนำไปใช้งาน
 
-Visit the following resources to learn more:
+แหล่งเรียนรู้เพิ่มเติม (English):
 
 - [Primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive)
