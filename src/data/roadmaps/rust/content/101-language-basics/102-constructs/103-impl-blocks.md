@@ -1,3 +1,3 @@
 # Impl Blocks
 
-Impl Block in rust is used to implement a trait or a struct. It is used to define the behavior of a trait or a struct.
+Impl Block ใน Rust ใช้ในการนำมาประยุกต์ใช้ trait หรือ struct มันถูกใช้เพื่อนิยามพฤติกรรมของ trait หรือ struct นั้นๆ

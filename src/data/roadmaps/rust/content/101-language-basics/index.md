@@ -1,3 +1,3 @@
 # Language Basics
 
-The "language basics" of Rust encompass the fundamental elements you'll need to grasp to get your programming underway. This commences with understanding Rust's syntax and semantics, followed by grasping variables and data types, which are essential in creating effective code. Rust language basics also incorporate concepts of control flow, such as loops and conditional statements. Lastly, functions are another vital element, providing you the ability to structure your code and reuse segments of it.
+"Language Basics" ใน Rust มีองค์ประกอบพื้นฐานที่คุณต้องเข้าใจเพื่อเริ่มต้นการเขียนโปรแกรมของคุณ ซึ่งเริ่มต้นด้วยการเข้าใจ syntax และการใช้งานของ Rust, ตามด้วยการเข้าใจตัวแปรและประเภทข้อมูลที่เป็นสิ่งสำคัญในการสร้างโค้ดที่มีประสิทธิภาพ Rust ฐานภาษายังรวมถึงแนวคิดของการควบคุมการทำงาน เช่น การวนลูปและคำสั่งเงื่อนไข สุดท้าย ฟังก์ชันเป็นองค์ประกอบอีกหนึ่งองค์ประกอบที่สำคัญซึ่งให้คุณสามารถโครงสร้างโค้ดและนำส่วนของโค้ดไปใช้ซ้ำได้

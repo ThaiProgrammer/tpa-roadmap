@@ -1,4 +1,3 @@
 # Introduction
 
-Rust is a modern system programming language focused on performance, safety, and concurrency. It accomplishes these goals without having a garbage collector, making it a useful language for a number of use cases other languages aren’t good at. Its syntax is similar to C++, but Rust offers better memory safety while maintaining high performance.
-
+Rust เป็นภาษาโปรแกรมมิ่งระบบที่ทันสมัยและมุ่งเน้นไปที่ประสิทธิภาพ, ความปลอดภัย, และ concurrency มันสามารถทำสิ่งเหล่านี้ได้โดยไม่ต้องมี garbage collector, ทำให้เป็นภาษาที่มีคุณค่าสำหรับหลายสถานการณ์ที่ภาษาอื่นๆ ไม่สามารถดำเนินการได้อย่างเหมาะสม โครงสร้างไวยากรณ์ของ Rust มีความคล้ายคลึงกับ C++, แต่ Rust มีความปลอดภัยในการจัดการหน่วยความจำที่ยอดเยี่ยมและพัฒนาเสถียรภาพของโปรแกรมอย่างมาก

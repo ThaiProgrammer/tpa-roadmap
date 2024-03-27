@@ -48,7 +48,7 @@
                   "x": "18",
                   "y": "19",
                   "properties": {
-                    "text": "Find the detailed version of this roadmap",
+                    "text": "ดูประวัติการแก้ไขเอกสารและ",
                     "size": "18"
                   }
                 },
@@ -63,7 +63,7 @@
                   "x": "18",
                   "y": "88",
                   "properties": {
-                    "controlName": "ext_link:roadmap.sh"
+                    "controlName": "ext_link:roadmap.thaiprogrammer.org"
                   },
                   "children": {
                     "controls": {
@@ -89,11 +89,11 @@
                           "zOrder": "1",
                           "measuredW": "155",
                           "measuredH": "26",
-                          "x": "92",
-                          "y": "11",
+                          "x": "50",
+                          "y": "10",
                           "properties": {
                             "color": "16777215",
-                            "text": "https://roadmap.sh",
+                            "text": "roadmap.thaiprogrammer.org",
                             "size": "18"
                           }
                         }
@@ -111,7 +111,7 @@
                   "y": "48",
                   "properties": {
                     "size": "18",
-                    "text": "Along with resources and more roadmaps"
+                    "text": "รายละเอียดของความรู้อื่นๆได้ที่ลิ้งนี้"
                   }
                 }
               ]
@@ -2957,8 +2957,7 @@
               ]
             }
           }
-        },
-        {
+        },  {
           "ID": "683",
           "typeID": "__group__",
           "zOrder": "89",
@@ -4063,7 +4062,7 @@
                   "h": "50",
                   "measuredW": "200",
                   "measuredH": "140",
-                  "x": "0",
+                  "x": "0", 
                   "y": "0",
                   "properties": {
                     "color": "16770457"
@@ -4075,11 +4074,11 @@
                   "zOrder": "1",
                   "measuredW": "105",
                   "measuredH": "25",
-                  "x": "37",
+                  "x": "45",
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "What is Rust?"
+                    "text": "Rust คืออะไร?"
                   }
                 }
               ]
@@ -4122,11 +4121,11 @@
                   "zOrder": "1",
                   "measuredW": "112",
                   "measuredH": "25",
-                  "x": "36",
+                  "x": "30",
                   "y": "13",
                   "properties": {
                     "size": "17",
-                    "text": "Why use Rust?"
+                    "text": "ทำไมต้องใช้ Rust"
                   }
                 }
               ]
@@ -4216,11 +4215,11 @@
                   "zOrder": "1",
                   "measuredW": "194",
                   "measuredH": "25",
-                  "x": "88",
+                  "x": "110",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Installing Rust and Cargo"
+                    "text": "ติดตั้ง Rust และ Cargo"
                   }
                 }
               ]
@@ -4263,7 +4262,7 @@
                   "zOrder": "1",
                   "measuredW": "197",
                   "measuredH": "25",
-                  "x": "86",
+                  "x": "95",
                   "y": "12",
                   "properties": {
                     "size": "17",

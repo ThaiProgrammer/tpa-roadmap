@@ -1,11 +1,11 @@
 # Data Structures
 
-In Rust, there are different types of data structures for organizing and storing data. Some of the primary types include:
+ใน Rust, มีประเภทของโครงสร้างข้อมูลต่างๆ ที่ใช้ในการจัดเก็บและจัดระเบียบข้อมูล บางประเภทหลักได้แก่:
 
-- **Structures (structs)**: These are custom data types that allow you to combine multiple related values of different types. Structs implement methods and can also maintain private fields. Structs come in three types: classic C-style structs, tuple structs, and unit structs.
-- **Tuples**: These are a sequence of fixed-size elements of possibly differing types. The elements of a tuple can be accessed using dot notation followed by the index starting from 0.
-- **Enums (enumerations)**: These are data structures that allow you to define a type by enumerating its possible variants. Enum variants can be simple values or complex ones with fields.
-- **Arrays** and **Vectors**: These are collections of items with the same type. An array is fixed-sized, while a vector can grow or shrink its size. Arrays and vectors store elements in contiguous memory locations.
-- **Hash Maps**: A Hash Map keeps track of elements in key-value pairs, similar to a dictionary or a JavaScript object. They are great for quick lookups.
+- **Structures (structs)**: เป็นชนิดข้อมูลที่กำหนดเองที่ช่วยให้คุณรวมค่าที่เกี่ยวข้องหลายๆ ค่าของชนิดต่างๆ เข้าด้วยกัน โครงสร้างมีเมทอดและสามารถเก็บฟิลด์เป็นส่วนตัวได้ มีโครงสร้างอยู่ในรูปแบบ 3 ประเภท: โครงสร้างแบบ C-style, โครงสร้างทูเพิล, และโครงสร้างยูนิต
+- **Tuples**: เป็นลำดับขององค์ประกอบขนาดคงที่ที่มีชนิดที่แตกต่างกันไป สามารถเข้าถึงองค์ประกอบของทูเพิลได้โดยใช้ตัวดอทตามด้วยดัชนีเริ่มต้นที่ 0
+- **Enums (enumerations)**: เป็นโครงสร้างข้อมูลที่ช่วยให้คุณกำหนดประเภทโดยการระบุตัวแปรที่เป็นไปได้ ตัวแปรแบบ enum สามารถเป็นค่าที่เรียบง่ายหรือซับซ้อนพร้อมฟิลด์
+- **Arrays** และ **Vectors**: เป็นชุดของรายการที่มีชนิดเดียวกัน Arrays มีขนาดคงที่ในขณะที่ Vectors สามารถขยายหรือย่อขนาดได้ Arrays และ Vectors เก็บองค์ประกอบในตำแหน่งหน่วยความจำติดต่อกัน
+- **Hash Maps**: Hash Map ช่วยในการติดตามองค์ประกอบในรูปคู่ key-value คล้ายกับพจนานุกรมหรือวัตถุ JavaScript มันเหมาะสำหรับการค้นหาอย่างรวดเร็ว
 
-The Rust language also provides powerful reference and borrowing mechanism to control memory, data read/write access, and mutation to avoid problems like data races in concurrent scenarios.
+ภาษา Rust ยังให้การอ้างอิงและการยืมที่มีประสิทธิภาพเพื่อควบคุมหน่วยความจำ การเข้าถึงข้อมูลอ่าน/เขียน และการเปลี่ยนแปลงเพื่อหลีกเลี่ยงปัญหาเช่นการแข่งขันข้อมูลในสถานการณ์ที่เป็นพร้อมสร้างผลกระทบในการทำงานแบบแข่งขัน 
