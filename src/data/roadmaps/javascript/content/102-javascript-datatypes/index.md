@@ -1,8 +1,8 @@
-# Datatypes
+# ชนิดของข้อมูล
 
-Data type refers to the type of data that a JavaScript variable can hold. There are seven primitive data types in JavaScript (Number, BigInt, String, Boolean, Null, Undefined and Symbol). Objects are non-primitives.
+ชนิดของข้อมูล (Data type) หมายถึงชนิดของข้อมูลที่ JavaScript สามารถเก็บได้ JavaScript มีข้อมูลชนิดพื้นฐาน (primitive) 7 ชนิด (Number, BigInt, String, Boolean, Null, Undefined และ Symbol) Objects เป็นข้อมูลชนิดที่ไม่ใช่ข้อมูลพื้นฐาน (non-primitives)
 
-Visit the following resources to learn more:
+แหล่งเรียนรู้เพิ่มเติม (English):
 
 - [JavaScript Data Types - CodeGuage](https://www.codeguage.com/courses/js/data-types)
 - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)

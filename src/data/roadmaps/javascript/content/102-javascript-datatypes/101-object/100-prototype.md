@@ -1,8 +1,8 @@
 # Prototypes
 
-JavaScript is an object-oriented language built around a prototype model. In JavaScript, every object inherits properties from its prototype, if there are any. A prototype is simply an object from which another object inherits properties. To create complex programs using JavaScript, one has to be proficient in working with prototypes — they form the very core of OOP in the language.
+JavaScript เป็นภาษาเชิงวัตถุที่สร้างขึ้นบนพื้นฐานของ prototype model ในภาษา JavaScript หาก object นั้นมี prototype ทุกวัตถุจะสืบทอดคุณสมบัติจาก prototype ของมัน prototype คือ object ที่ object อื่นๆสืบทอดคุณสมบัติมา เพื่อที่จะสร้างโปรแกรมที่ซับซ้อนด้วยภาษา JavaScript จำเป็นต้องมีความชำนาญในการทำงานกับ prototype เนื่องจากเป็นหัวใจหลักของการเขียนโปรแกรมเชิงวัตถุในภาษานี้
 
-Visit the following resources to learn more:
+แหล่งเรียนรู้เพิ่มเติม (English):
 
 - [Prototypes in JavaScript - A Comprehensive Guide](https://www.codeguage.com/courses/js/objects-prototypes)
 - [Prototypes, Inheritance](https://javascript.info/prototypes)

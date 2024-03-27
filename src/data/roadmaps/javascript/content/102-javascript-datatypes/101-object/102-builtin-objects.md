@@ -1,6 +1,6 @@
-# Built-in objects
+# object สำเร็จรูป
 
-Built-in objects, or "global objects", are those built into the language specification itself. There are numerous built-in objects with the JavaScript language, all of which are accessible at the global scope. Some examples are:
+object สำเร็จรูป (built-in objects) หรือ "global objects" คือ object ที่สร้างขึ้นในข้อกำหนดมาตรฐานของตัวภาษาเอง มี object สำเร็จรูปมากมายในภาษา JavaScript ซึ่งทั้งหมดสามารถเข้าถึงได้ในระดับ global ตัวอย่างเช่น:
 
 - `Number`
 - `Math`
@@ -10,7 +10,7 @@ Built-in objects, or "global objects", are those built into the language specifi
 - `Function`
 - `Boolean`
 
-Visit the following resources to learn more:
+แหล่งเรียนรู้เพิ่มเติม (English):
 
 - [Built-in Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
