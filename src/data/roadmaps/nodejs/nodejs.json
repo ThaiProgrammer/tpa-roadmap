@@ -2577,11 +2577,11 @@
                   "zOrder": "5",
                   "measuredW": "137",
                   "measuredH": "25",
-                  "x": "48",
+                  "x": "75",
                   "y": "119",
                   "properties": {
                     "size": "17",
-                    "text": "Common Formats"
+                    "text": "รูปแบบทั่วไป"
                   }
                 },
                 {
@@ -2828,11 +2828,11 @@
                   "zOrder": "1",
                   "measuredW": "127",
                   "measuredH": "25",
-                  "x": "66",
+                  "x": "70",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "What is Node.js?"
+                    "text": "Node.js คืออะไร"
                   }
                 },
                 {
@@ -3028,11 +3028,11 @@
                   "zOrder": "1",
                   "measuredW": "320",
                   "measuredH": "25",
-                  "x": "27",
+                  "x": "50",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Backend roadmap till Language Selection",
+                    "text": "โร้ดแมพ Backend จนถึงการเลือกภาษา",
                     "color": "16777215"
                   }
                 }
@@ -3074,7 +3074,7 @@
                   "y": "21",
                   "properties": {
                     "size": "16",
-                    "text": "Beginner Topics / start with these"
+                    "text": "หัวข้อสำหรับผู้เริ่มต้น / เริ่มจากสิ่งนี้ก่อน"
                   }
                 },
                 {
@@ -3087,7 +3087,7 @@
                   "y": "86",
                   "properties": {
                     "size": "16",
-                    "text": "Advanced Topics / pick these in the end"
+                    "text": "หัวข้อระดับสูง / เลือกศึกษาในช่วงท้าย"
                   }
                 },
                 {
@@ -3100,7 +3100,7 @@
                   "y": "54",
                   "properties": {
                     "size": "16",
-                    "text": "Intermediate Topics / pick them next"
+                    "text": "หัวข้อระดับกลาง / เลือกศึกษาต่อจากช่วงต้น"
                   }
                 },
                 {
@@ -3306,12 +3306,12 @@
                   "zOrder": "1",
                   "measuredW": "160",
                   "measuredH": "25",
-                  "x": "109",
+                  "x": "120",
                   "y": "12",
                   "properties": {
                     "color": "16777215",
                     "size": "17",
-                    "text": "JavaScript Roadmap"
+                    "text": "โร้ดแมพ JavaScript"
                   }
                 }
               ]
@@ -3354,11 +3354,11 @@
                   "zOrder": "1",
                   "measuredW": "174",
                   "measuredH": "25",
-                  "x": "100",
+                  "x": "140",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Introduction to Node.js"
+                    "text": "แนะนำ Node.js"
                   }
                 }
               ]
@@ -3401,11 +3401,11 @@
                   "zOrder": "1",
                   "measuredW": "134",
                   "measuredH": "25",
-                  "x": "63",
+                  "x": "57",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Why use Node.js?"
+                    "text": "ทำไมต้องใช้ Node.js"
                   }
                 },
                 {
@@ -3497,11 +3497,11 @@
                   "zOrder": "1",
                   "measuredW": "134",
                   "measuredH": "25",
-                  "x": "63",
+                  "x": "45",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "History of Node.js"
+                    "text": "ความเป็นมาของ Node.js"
                   }
                 },
                 {
@@ -3597,7 +3597,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Node.js vs Browser"
+                    "text": "Node.js กับ Browser"
                   }
                 },
                 {
@@ -3690,11 +3690,11 @@
                   "w": "174",
                   "measuredW": "173",
                   "measuredH": "25",
-                  "x": "33",
+                  "x": "60",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Running Node.js Code"
+                    "text": "การสั่งรัน Node.js"
                   }
                 },
                 {
@@ -3786,11 +3786,11 @@
                   "zOrder": "1",
                   "measuredW": "66",
                   "measuredH": "25",
-                  "x": "59",
+                  "x": "70",
                   "y": "12",
                   "properties": {
                     "size": "17",
-                    "text": "Modules"
+                    "text": "โมดูล"
                   }
                 }
               ]
@@ -3833,11 +3833,11 @@
                   "zOrder": "1",
                   "measuredW": "200",
                   "measuredH": "25",
-                  "x": "31",
+                  "x": "55",
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "Creating Custom Modules"
+                    "text": "สร้างโมดูลที่กำหนดเอง"
                   }
                 },
                 {
@@ -3933,7 +3933,7 @@
                   "y": "9",
                   "properties": {
                     "size": "17",
-                    "text": "[global] Keyword"
+                    "text": "คีย์เวิร์ด [global]"
                   }
                 },
                 {
@@ -4073,7 +4073,7 @@
                   "y": "117",
                   "properties": {
                     "size": "17",
-                    "text": "Installing Packages"
+                    "text": "การติดตั้งแพ็คเกจ"
                   }
                 },
                 {
@@ -4100,7 +4100,7 @@
                   "y": "72",
                   "properties": {
                     "size": "17",
-                    "text": "Local Installation"
+                    "text": "การติดตั้งแบบ Local"
                   }
                 },
                 {
@@ -4127,7 +4127,7 @@
                   "y": "23",
                   "properties": {
                     "size": "17",
-                    "text": "Global Installation"
+                    "text": "การติดตั้งแบบ Global"
                   }
                 },
                 {
@@ -12082,11 +12082,11 @@
                   "zOrder": "1",
                   "measuredW": "314",
                   "measuredH": "25",
-                  "x": "14",
+                  "x": "70",
                   "y": "17",
                   "properties": {
                     "size": "17",
-                    "text": "Find the detailed version of this roadmap"
+                    "text": "ศึกษารายละเอียดของโร้ดแมพนี้"
                   }
                 },
                 {
@@ -12095,11 +12095,11 @@
                   "zOrder": "2",
                   "measuredW": "319",
                   "measuredH": "25",
-                  "x": "14",
+                  "x": "30",
                   "y": "45",
                   "properties": {
                     "size": "17",
-                    "text": "along with resources and other roadmaps"
+                    "text": "พร้อมกับแหล่งข้อมูลของโร้ดแมพอื่นๆได้ที่"
                   }
                 },
                 {
